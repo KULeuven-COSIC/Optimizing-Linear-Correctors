@@ -620,13 +620,6 @@ n = 113, k = 57, d = 15; source: N. J. Sloane, "List of weight distributions in 
 n = 71, k = 36, d = 11; source: N. J. Sloane, "List of weight distributions in the on-line encyclopedia of integer sequences," Online available at: https://oeis.org/wiki/List_of_weight_distributions
 n = 73, k = 37, d = 13; source: N. J. Sloane, "List of weight distributions in the on-line encyclopedia of integer sequences," Online available at: https://oeis.org/wiki/List_of_weight_distributions
 n = 167, k = 84, d = 23; source: N. J. Sloane, "List of weight distributions in the on-line encyclopedia of integer sequences," Online available at https://oeis.org/wiki/List_of_weight_distributions; M. Tomlinson, C. J. Tjhai, M. A. Ambroze, M. Ahmed, and M. Jibril, "Error-Correction Coding and Decoding: Bounds, Codes, Decoders, Analysis and Applications," Springer Nature, 2017.
-n = 104, k = 52, d = 20; source: http://www.codetables.de/BKLC/BKLC.php?q=2&n=104&k=52
-n = 138, k = 69, d = 22; source: http://www.codetables.de/BKLC/BKLC.php?q=2&n=138&k=69
-n = 18, k = 9, d = 6; source: http://www.codetables.de/BKLC/BKLC.php?q=2&n=18&k=9
-n = 42, k = 21, d = 10; source: http://www.codetables.de/BKLC/BKLC.php?q=2&n=42&k=21
-n = 74, k = 37, d = 14; source: http://www.codetables.de/BKLC/BKLC.php?q=2&n=74&k=37 (modified generator matrix to eliminate all-zero columns)
-n = 80, k = 40, d = 16; source: http://www.codetables.de/BKLC/BKLC.php?q=2&n=80&k=40
-n = 98, k = 49, d = 16; source: N. J. Sloane, "List of weight distributions in the on-line encyclopedia of integer sequences," Online available at: https://oeis.org/wiki/List_of_weight_distributions
 n = 73, k = 36, d = 16; source: http://www.codetables.de/BKLC/BKLC.php?q=2&n=73&k=36
 n = 79, k = 39, d = 16; source: http://www.codetables.de/BKLC/BKLC.php?q=2&n=79&k=39
 n = 89, k = 44, d = 18; source: http://www.codetables.de/BKLC/BKLC.php?q=2&n=89&k=44

@@ -1,13 +1,17 @@
 # Optimizing Linear Correctors: A Tight Output Min-Entropy Bound and Selection Technique
 
-This repository contains data for the paper: *Optimizing Linear Correctors: A Tight Output Min-Entropy Bound and Selection Technique*.
+This repository contains Python code and data for the paper: *Optimizing Linear Correctors: A Tight Output Min-Entropy Bound and Selection Technique*.
+
+## Code
+
+The directory `Code/` contains necessary Python code to reproduce figures from the paper. All figures can be generated directly from [main.py](Code/main.py). The content of [parameters.py](Code/parameters.py) can be modified to speed up the code execution by lowering `Decimal` context precision, setting another output min-entropy lower bound or to modify the parameters of the bisection method. 
 
 ## Files and data description
 
-1. [NBC_list_and_weight_distributions](NBC_list_and_weight_distributions.zip): List with parameters and weight distributions of 16613 binary linear codes that are used to calculate the new bound of the corresponding correctors (NBC set)
-2. [NBCCYC_list_and_weight_distributions](NBCCYC_list_and_weight_distributions.txt): List with parameters and weight distributions of 644 cyclic binary linear codes that are used to calculate the new bound of the corresponding correctors (NBCCYC set)
-3. [OBC_list_and_parameters](OBC_list_and_parameters.txt): List with parameters of 32741 binary linear codes that are used to calculate the old bound of the corresponding correctors (OBC set)
-4. [OBCCYC_list_and_parameters](OBCCYC_list_and_parameters.txt): List with parameters of 810 cyclic binary linear codes that are used to calculate the old bound of the corresponding correctors (OBCCYC set)
+1. [NBC_list_and_weight_distributions](NBC_list_and_weight_distributions.zip): List with parameters and weight distributions of binary linear codes that are used to calculate the new bound of the corresponding correctors (NBC set)
+2. [NBCCYC_list_and_weight_distributions](NBCCYC_list_and_weight_distributions.txt): List with parameters and weight distributions of cyclic binary linear codes that are used to calculate the new bound of the corresponding correctors (NBCCYC set)
+3. [OBC_list_and_parameters](OBC_list_and_parameters.txt): List with parameters of binary linear codes that are used to calculate the old bound of the corresponding correctors (OBC set)
+4. [OBCCYC_list_and_parameters](OBCCYC_list_and_parameters.txt): List with parameters of cyclic binary linear codes that are used to calculate the old bound of the corresponding correctors (OBCCYC set)
 5. [NBC_H_out_0.999_PF_correctors](NBC_H_out_0.999_PF_correctors.txt): Optimal correctors for output min-entropy rate of 0.999 according to the new bound
 6. [NBCCYC_H_out_0.999_PF_correctors](NBCCYC_H_out_0.999_PF_correctors.txt): Optimal correctors for output min-entropy rate of 0.999 based only on the cyclic codes according to the new bound
 7. [OBC_H_out_0.999_PF_correctors](OBC_H_out_0.999_PF_correctors.txt): Optimal correctors for output min-entropy rate of 0.999 according to the old bound
