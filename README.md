@@ -8,28 +8,28 @@ The directory `Code/` contains necessary Python code to reproduce figures from t
 
 ## Files and data description
 
-1. [NBC_list_and_weight_distributions](NBC_list_and_weight_distributions.zip): List with parameters and weight distributions of binary linear codes that are used to calculate the new bound of the corresponding correctors (NBC set)
-2. [NBCCYC_list_and_weight_distributions](NBCCYC_list_and_weight_distributions.txt): List with parameters and weight distributions of cyclic binary linear codes that are used to calculate the new bound of the corresponding correctors (NBCCYC set)
-3. [OBC_list_and_parameters](OBC_list_and_parameters.txt): List with parameters of binary linear codes that are used to calculate the old bound of the corresponding correctors (OBC set)
-4. [OBCCYC_list_and_parameters](OBCCYC_list_and_parameters.txt): List with parameters of cyclic binary linear codes that are used to calculate the old bound of the corresponding correctors (OBCCYC set)
-5. [NBC_H_out_0.999_PF_correctors](NBC_H_out_0.999_PF_correctors.txt): Optimal correctors for output min-entropy rate of 0.999 according to the new bound
-6. [NBCCYC_H_out_0.999_PF_correctors](NBCCYC_H_out_0.999_PF_correctors.txt): Optimal correctors for output min-entropy rate of 0.999 based only on the cyclic codes according to the new bound
-7. [OBC_H_out_0.999_PF_correctors](OBC_H_out_0.999_PF_correctors.txt): Optimal correctors for output min-entropy rate of 0.999 according to the old bound
-8. [OBCCYC_H_out_0.999_PF_correctors](OBCCYC_H_out_0.999_PF_correctors.txt): Optimal correctors for output min-entropy rate of 0.999 based only on the cyclic codes according to the old bound
+1. [NBC_set](NBC_set.txt): List with parameters and weight distributions of binary linear codes that are used to calculate the new bound of the corresponding correctors (NBC set)
+2. [NBCCYC_set](NBCCYC_set.txt): List with parameters and weight distributions of cyclic binary linear codes that are used to calculate the new bound of the corresponding correctors (NBCCYC set)
+3. [OBC_set](OBC_set.txt): List with parameters of binary linear codes that are used to calculate the old bound of the corresponding correctors (OBC set)
+4. [OBCCYC_set](OBCCYC_set.txt): List with parameters of cyclic binary linear codes that are used to calculate the old bound of the corresponding correctors (OBCCYC set)
+5. [Optimal_NBC](Optimal_NBC.txt): Optimal correctors for output min-entropy rate of 0.999 according to the new bound
+6. [Optimal_NBCCYC](Optimal_NBCCYC.txt): Optimal correctors for output min-entropy rate of 0.999 based only on the cyclic codes according to the new bound
+7. [Optimal_OBC](Optimal_OBC.txt): Optimal correctors for output min-entropy rate of 0.999 according to the old bound
+8. [Optimal_OBCCYC](Optimal_OBCCYC.txt): Optimal correctors for output min-entropy rate of 0.999 based only on the cyclic codes according to the old bound
 9. [Modified_generator_matrices_OBC_NBC](Modified_generator_matrices_OBC_NBC.zip): Modified generator matrices of the best known linear codes that originally contained one or multiple all-zero columns (BKLCs from  M. Grassl, *''Bounds on the minimum distance of linear codes and quantum codes,''* Online available at: http://www.codetables.de) 
 
 	
-Files [1](NBC_list_and_weight_distributions.zip) and [2](NBCCYC_list_and_weight_distributions.txt) contain in each line:
+Files [1](NBC_set.txt) and [2](NBCCYC_set.txt) contain in each line:
 - parameters of the code on which the corresponding corrector is based (`n`, `k`, `d`), 
 - reference where the complete code description and/or its weight distribution can be found (`source`),
 - sequence of tuples which represents code's weight distribution (`Weight Distribution`), where the *i*-th tuple `<w_i, a_i>` represents number of codewords `a_i` with weight `w_i`,
 - in cases where MAGMA uses PRNG we additionally provide `MAGMA Seed` and `MAGMA Seed iteration` values in brackets that were used for our constructions.
 
-Files [3](OBC_list_and_parameters.txt) and [4](OBCCYC_list_and_parameters.txt) contain in each line:
+Files [3](OBC_set.txt) and [4](OBCCYC_set.txt) contain in each line:
 - parameters of the code on which the corresponding corrector is based (`n`, `k`, `d`), 
 - reference where the complete code description can be found (`source`).
 
-Files [5](NBC_H_out_0.999_PF_correctors.txt), [6](NBCCYC_H_out_0.999_PF_correctors.txt), [7](OBC_H_out_0.999_PF_correctors.txt) and [8](OBCCYC_H_out_0.999_PF_correctors.txt) contain in each line:
+Files [5](Optimal_NBC.txt), [6](Optimal_NBCCYC.txt), [7](Optimal_OBC.txt) and [8](Optimal_OBCCYC.txt) contain in each line:
 - parameters of the code on which the corresponding corrector is based (`n`, `k`, `d`), 
 - minimum required min-entropy of the input raw bits to achieve the output min-entropy rate of 0.999 (`H_in_req`),
 - code rate = throughput reduction (`CR`),

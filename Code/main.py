@@ -5,10 +5,10 @@ from utilities import *
 if __name__ == "__main__":
 
     # Input files
-    file_in_NBC_correctors = "Correctors_NBC.txt"
-    file_in_OBC_correctors = "Correctors_OBC.txt"
-    file_in_NBCCYC_correctors = "Correctors_NBCCYC.txt"
-    file_in_OBCCYC_correctors = "Correctors_OBCCYC.txt"
+    file_in_NBC_correctors = "NBC_correctors.txt"
+    file_in_OBC_correctors = "OBC_correctors.txt"
+    file_in_NBCCYC_correctors = "NBCCYC_correctors.txt"
+    file_in_OBCCYC_correctors = "OBCCYC_correctors.txt"
 
     target_in_min_entropy_list = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
 
