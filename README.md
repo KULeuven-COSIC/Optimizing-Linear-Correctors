@@ -8,7 +8,7 @@ The directory `Code/` contains necessary Python code to reproduce figures from t
 
 ## Files and data description
 
-1. [NBC_set](NBC_set.txt): List with parameters and weight distributions of binary linear codes that are used to calculate the new bound of the corresponding correctors (NBC set)
+1. [NBC_set](NBC_set.zip): List with parameters and weight distributions of binary linear codes that are used to calculate the new bound of the corresponding correctors (NBC set) - ZIP file
 2. [NBCCYC_set](NBCCYC_set.txt): List with parameters and weight distributions of cyclic binary linear codes that are used to calculate the new bound of the corresponding correctors (NBCCYC set)
 3. [OBC_set](OBC_set.txt): List with parameters of binary linear codes that are used to calculate the old bound of the corresponding correctors (OBC set)
 4. [OBCCYC_set](OBCCYC_set.txt): List with parameters of cyclic binary linear codes that are used to calculate the old bound of the corresponding correctors (OBCCYC set)
@@ -19,7 +19,7 @@ The directory `Code/` contains necessary Python code to reproduce figures from t
 9. [Modified_generator_matrices_OBC_NBC](Modified_generator_matrices_OBC_NBC.zip): Modified generator matrices of the best known linear codes that originally contained one or multiple all-zero columns (BKLCs from  M. Grassl, *''Bounds on the minimum distance of linear codes and quantum codes,''* Online available at: http://www.codetables.de) 
 
 	
-Files [1](NBC_set.txt) and [2](NBCCYC_set.txt) contain in each line:
+Files [1](NBC_set.zip) and [2](NBCCYC_set.txt) contain in each line:
 - parameters of the code on which the corresponding corrector is based (`n`, `k`, `d`), 
 - reference where the complete code description and/or its weight distribution can be found (`source`),
 - sequence of tuples which represents code's weight distribution (`Weight Distribution`), where the *i*-th tuple `<w_i, a_i>` represents number of codewords `a_i` with weight `w_i`,
