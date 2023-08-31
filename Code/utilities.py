@@ -61,6 +61,35 @@ def Optimal_frontier_2d_function(Rates, Entropies, ns, ks, ds, effs, maxX = True
     p_front_eff = [pair[5] for pair in p_front]
     return p_front_Rates, p_front_Entropies, p_front_n, p_front_k, p_front_d, p_front_eff, p_front
 
+#NBC_entropy_bound_code_list.append((curr_code[0],curr_code[1], curr_code[2], curr_code[1]/curr_code[0], H_min_IN, efficiency))   
+"""Determine codes on the Pareto Frontier - 3D"""
+def Optimal_frontier_3d_function(elements):
+    """
+    Determine the Pareto optimal elements from the given list.
+    
+    Args:
+    - elements (list of tuples): Each tuple contains ('code_rate','Hin','area','n','k','d')
+
+    Returns:
+    - list of tuples: Pareto optimal elements
+    """
+
+    def dominates(a, b):
+        """Check if element a dominates element b."""
+        return (a[3] >= b[3] and a[4] <= b[4] and a[6] <= b[6] and
+                (a[3] > b[3] or a[4] < b[4] or a[6] < b[6]))
+
+    pareto_elements = []
+    for i in range(len(elements)):
+        dominated = False
+        for j in range(len(elements)):
+            if dominates(elements[j], elements[i]):
+                dominated = True
+                break
+        if not dominated:
+            pareto_elements.append(elements[i])
+
+    return pareto_elements
 # %%
 '''New entropy bound based on the dual weight distributions'''
 def NEW_H_min_bit_bound(n, k, Hin, weight_distribution):
@@ -289,6 +318,44 @@ def determine_Optimal_correctors(Entropy_bound_code_list, file_out_write_optimal
     return Optimal_code_rate, Optimal_in_min_entropy, Optimal_all
 
 # %%
+
+def add_area_info_to_appropriate_NBCCYC_correctors (NBCCYC_entropy_bound_code_list, file_in_NBCCYC_correctors_area):
+    pattern = re.compile(r'Code \[(\d+),(\d+),(\d+)\].*?(\d+\.?\d*) GEs')
+    jj = 0
+    with open(file_in_NBCCYC_correctors_area, "r") as file:
+        for line in file:
+            match = pattern.search(line)
+            if match:
+                n, k, d, ge = match.groups()
+                n, k, d = int(n), int(k), int(d)
+                ge = float(ge)
+
+                # Extract constr from the line after "Code [n,k,d]"
+                constr = line.split(']')[1].split(':')[0].strip()
+
+                # Find the tuple (n, k, d) in the NBCCYC_entropy_bound_code_list and modify it
+                for idx, t in enumerate(NBCCYC_entropy_bound_code_list):
+                    if t[0] == n and t[1] == k and t[2] == d:
+                        jj += 1
+                        NBCCYC_entropy_bound_code_list[idx] = t + (ge, constr)
+                        break
+    print(f'Added {jj} area info')
+
+def determine_Optimal_area_efficient_correctors (Entropy_bound_code_list, file_out_write_optimal, set_name):
+    
+    Optimal_all = Optimal_frontier_3d_function(Entropy_bound_code_list)
+    print(f'Area {set_name}: There are {len(Optimal_all)} area efficient optimal correctors.')
+
+    with open(file_out_write_optimal, 'w') as file_iterator:
+        for i in range(len(Optimal_all)):
+            H_in_opt_str = str(Optimal_all[i][4].quantize(Decimal('.00000001'), rounding = ROUND_UP))
+            efficiency_opt_str = str(Optimal_all[i][5].quantize(Decimal('.00000001'), rounding = ROUND_HALF_EVEN))
+            file_iterator.write(f'n = {Optimal_all[i][0]}, k = {Optimal_all[i][1]}, d = {Optimal_all[i][2]}, CR = {Optimal_all[i][3]:.8f}, H_in_req = {H_in_opt_str}, efficiency = {efficiency_opt_str}, area = {Optimal_all[i][6]:.2f} GEs, construction = {Optimal_all[i][7]} \n')
+        file_iterator.write(f'Area {set_name}: There are {len(Optimal_all)} area efficient optimal correctors.')
+
+    return Optimal_all
+    
+    
 '''
 Applicable to: All codes
 Bounds: Lacharme and New bound 
@@ -319,38 +386,6 @@ def determine_Optimal_correctors_for_targeted_h_in (Optimal_all, file_out_write_
                     break
             if found == 0:
                 fr.write('WARNING: Adequate corrector not found!\n')
-
- ###################################################################################################################
- ###################################################################################################################
- ###################################################################################################################
- ###################################################################################################################
- ###################################################################################################################
- ###################################################################################################################
-                
-
-# sorted_by_Hmin_Pareto_NBCCYC_3D = sorted(Pareto_NBCCYC_3D, key=lambda x: x[4], reverse=True) # sort by min-entropy
-# best_NBCCYC_3D_codes_list = list()
-# best_NBCCYC_3D_codes_eff_list = list()
-
-# file_write_targeted_Pareto_NBCCYC_3D = f'v2_Optimal_correctors_NBCCYC_3D_9_targeted_H_in_H_out_0.999.txt'
-
-# with open(file_write_targeted_Pareto_NBCCYC_3D, 'w') as fr:
-#     for target_in_min_entropy in target_in_min_entropy_list:
-#         found = 0
-#         for code in sorted_by_Hmin_Pareto_NBCCYC_3D:
-#             if code[4] <= target_in_min_entropy:
-#                 for i in range(len(code_weight_distribution_list)):
-#                     if [code[0], code[1], code[2]] == code_weight_distribution_list[i][0]:
-#                         found_code_weight_distribution = code_weight_distribution_list[i][1]
-#                         break
-#                 curr_eff = new_exact_H_min_bit_bound (code[0], code[1], target_in_min_entropy, found_code_weight_distribution)/(target_in_min_entropy * code[0])
-#                 fr.write(f'n = {code[0]}, k = {code[1]}, d = {code[2]}, CR = {code[3]}, H_in_req = {np.ceil(code[4]*10**6)/(10**6)}, targeted efficiency = {curr_eff:.8f}, area = {code[7]:.2f} \n')
-#                 best_NBCCYC_3D_codes_list.append(code)
-#                 best_NBCCYC_3D_codes_eff_list.append(curr_eff)
-#                 found = 1
-#                 break
-#         if found == 0:
-#             fr.write('WARNING: Adequate code not found! Using simple XOR!\n')
 
 
 # %%
@@ -472,8 +507,6 @@ def find_efficiencies_for_entire_h_in_range (Optimal_OBC_correctors, Optimal_NBC
     added_min_entropy_list = list()
     added_efficiency_list = list()
 
-
-    # for target_in_min_entropy in target_in_min_entropy_list:
     for target_in_min_entropy in OBC_in_min_entropies_range:
         for code in sorted_by_Hmin_Pareto_NBC:
             if code[1] <= target_in_min_entropy:

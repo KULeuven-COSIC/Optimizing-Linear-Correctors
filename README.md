@@ -16,7 +16,7 @@ The directory `Code/` contains necessary Python code to reproduce figures from t
 6. [Optimal_NBCCYC](Optimal_NBCCYC.txt): Optimal correctors for output min-entropy rate of 0.999 based only on the cyclic codes according to the new bound
 7. [Optimal_OBC](Optimal_OBC.txt): Optimal correctors for output min-entropy rate of 0.999 according to the old bound
 8. [Optimal_OBCCYC](Optimal_OBCCYC.txt): Optimal correctors for output min-entropy rate of 0.999 based only on the cyclic codes according to the old bound
-9. [Optimal_Area_NBCCYC](Optimal_Area_NBCCYC.txt) : Optimal correctors according to both efficiency and area (GEs for NanGate 45nm standard-cell library) for output min-entropy rate of 0.999 based only on the cyclic codes according to the new bound
+9. [Optimal_Area_NBCCYC](Optimal_Area_NBCCYC.txt): Optimal correctors according to throughput, code rate and area (GEs for NanGate 45nm standard-cell library) for output min-entropy rate of 0.999 based only on the cyclic codes according to the new bound
 10. [Modified_generator_matrices_OBC_NBC](Modified_generator_matrices_OBC_NBC.zip): Modified generator matrices of the best known linear codes that originally contained one or multiple all-zero columns (BKLCs from  M. Grassl, *''Bounds on the minimum distance of linear codes and quantum codes,''* Online available at: http://www.codetables.de) - ZIP file
 
 	

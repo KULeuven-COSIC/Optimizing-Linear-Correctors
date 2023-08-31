@@ -9,6 +9,7 @@ if __name__ == "__main__":
     file_in_OBC_correctors = "OBC_correctors.txt"
     file_in_NBCCYC_correctors = "NBCCYC_correctors.txt"
     file_in_OBCCYC_correctors = "OBCCYC_correctors.txt"
+    file_in_NBCCYC_correctors_area = "NBCCYC_area_NanGate45nm_correctors.txt"
 
     target_in_min_entropy_list = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
 
@@ -22,6 +23,7 @@ if __name__ == "__main__":
     file_out_write_NBC_optimal = 'Optimal_correctors_NBC.txt'
     file_out_write_OBCCYC_optimal = 'Optimal_correctors_OBCCYC.txt'
     file_out_write_NBCCYC_optimal = 'Optimal_correctors_NBCCYC.txt'
+    file_out_write_NBCCYC_area_efficient_optimal = 'Optimal_area_efficient_correctors_NBCCYC.txt'
 
     file_out_write_targeted_Pareto_NBC = 'Optimal_correctors_NBC_9_targeted_H_in.txt'
     file_out_write_targeted_Pareto_NBCCYC = 'Optimal_correctors_NBCCYC_9_targeted_H_in.txt'
@@ -73,6 +75,12 @@ if __name__ == "__main__":
     # Find optimal correctors from the appropriate correctors in NBCCYC
     print("Find optimal correctors from the appropriate correctors in NBCCYC...")
     Optimal_NBCCYC_correctors_code_rate, Optimal_NBCCYC_correctors_in_min_entropy, Optimal_NBCCYC_correctors = determine_Optimal_correctors (NBCCYC_entropy_bound_code_list, file_out_write_NBCCYC_optimal, 'NBCCYC')
+    
+    # Add area info to NBCCYC_entropy_bound_code_list
+    add_area_info_to_appropriate_NBCCYC_correctors (NBCCYC_entropy_bound_code_list, file_in_NBCCYC_correctors_area)
+    # Find optimal area-efficient correctors from the appropriate correctors in NBCCYC
+    print("Find optimal area-efficient correctors from the appropriate correctors in NBCCYC...")
+    Optimal_area_efficient_NBCCYC_correctors = determine_Optimal_area_efficient_correctors (NBCCYC_entropy_bound_code_list, file_out_write_NBCCYC_area_efficient_optimal, 'NBCCYC')
 
     # Find optimal correctors for targeted h_in in OBC
     print("Find optimal correctors for targeted h_in in OBC...")

@@ -1,434 +1,434 @@
-n = 2, k = 1, d = 2, CR = 0.5, H_in_req = 0.962503, efficiency = 0.51895971, area = 8.67 GEs 
-n = 3, k = 1, d = 3, CR = 0.3333333333333333, H_in_req = 0.877646, efficiency = 0.37942427, area = 8.67 GEs 
-n = 3, k = 2, d = 2, CR = 0.6666666666666666, H_in_req = 0.978232, efficiency = 0.68116091, area = 17.34 GEs 
-n = 4, k = 1, d = 4, CR = 0.25, H_in_req = 0.783053, efficiency = 0.31894416, area = 8.67 GEs 
-n = 4, k = 3, d = 2, CR = 0.75, H_in_req = 0.984574, efficiency = 0.76149697, area = 26.01 GEs 
-n = 5, k = 1, d = 5, CR = 0.2, H_in_req = 0.6973, efficiency = 0.28653379, area = 8.67 GEs 
-n = 5, k = 4, d = 2, CR = 0.8, H_in_req = 0.988037, efficiency = 0.80948406, area = 34.68 GEs 
-n = 6, k = 1, d = 6, CR = 0.16666666666666666, H_in_req = 0.624259, efficiency = 0.26671622, area = 8.67 GEs 
-n = 6, k = 5, d = 2, CR = 0.8333333333333334, H_in_req = 0.990225, efficiency = 0.84139161, area = 43.35 GEs 
-n = 7, k = 1, d = 7, CR = 0.14285714285714285, H_in_req = 0.563027, efficiency = 0.25347706, area = 8.67 GEs 
-n = 7, k = 6, d = 2, CR = 0.8571428571428571, H_in_req = 0.991735, efficiency = 0.86414298, area = 52.02 GEs 
-n = 8, k = 1, d = 8, CR = 0.125, H_in_req = 0.511661, efficiency = 0.24405828, area = 8.67 GEs 
-n = 8, k = 7, d = 2, CR = 0.875, H_in_req = 0.992839, efficiency = 0.88118540, area = 60.69 GEs 
-n = 9, k = 1, d = 9, CR = 0.1111111111111111, H_in_req = 0.468279, efficiency = 0.23703824, area = 8.67 GEs 
-n = 9, k = 8, d = 2, CR = 0.8888888888888888, H_in_req = 0.993683, efficiency = 0.89442833, area = 68.70 GEs 
-n = 10, k = 1, d = 10, CR = 0.1, H_in_req = 0.43132, efficiency = 0.23161499, area = 8.67 GEs 
-n = 10, k = 9, d = 2, CR = 0.9, H_in_req = 0.994349, efficiency = 0.90501499, area = 75.37 GEs 
-n = 11, k = 1, d = 11, CR = 0.09090909090909091, H_in_req = 0.399543, efficiency = 0.22730526, area = 8.67 GEs 
-n = 11, k = 10, d = 2, CR = 0.9090909090909091, H_in_req = 0.994887, efficiency = 0.91367177, area = 82.04 GEs 
-n = 12, k = 1, d = 12, CR = 0.08333333333333333, H_in_req = 0.371982, efficiency = 0.22380138, area = 8.67 GEs 
-n = 12, k = 11, d = 2, CR = 0.9166666666666666, H_in_req = 0.995332, efficiency = 0.92088239, area = 88.71 GEs 
-n = 13, k = 1, d = 13, CR = 0.07692307692307693, H_in_req = 0.347881, efficiency = 0.22089823, area = 8.67 GEs 
-n = 13, k = 12, d = 2, CR = 0.9230769230769231, H_in_req = 0.995706, efficiency = 0.92698127, area = 95.38 GEs 
-n = 14, k = 1, d = 14, CR = 0.07142857142857142, H_in_req = 0.326644, efficiency = 0.21845543, area = 8.67 GEs 
-n = 14, k = 13, d = 2, CR = 0.9285714285714286, H_in_req = 0.996024, efficiency = 0.93220711, area = 102.05 GEs 
-n = 15, k = 1, d = 15, CR = 0.06666666666666667, H_in_req = 0.307805, efficiency = 0.21637138, area = 8.67 GEs 
-n = 15, k = 14, d = 2, CR = 0.9333333333333333, H_in_req = 0.996298, efficiency = 0.93673489, area = 108.72 GEs 
-n = 16, k = 1, d = 16, CR = 0.0625, H_in_req = 0.290985, efficiency = 0.21457354, area = 8.67 GEs 
-n = 16, k = 15, d = 2, CR = 0.9375, H_in_req = 0.996537, efficiency = 0.94069572, area = 115.39 GEs 
-n = 17, k = 1, d = 17, CR = 0.058823529411764705, H_in_req = 0.275882, efficiency = 0.21300685, area = 8.67 GEs 
-n = 17, k = 8, d = 6, CR = 0.47058823529411764, H_in_req = 0.802642, efficiency = 0.58622620, area = 61.36 GEs 
-n = 17, k = 9, d = 5, CR = 0.5294117647058824, H_in_req = 0.849041, efficiency = 0.62347195, area = 70.03 GEs 
-n = 17, k = 16, d = 2, CR = 0.9411764705882353, H_in_req = 0.996747, efficiency = 0.94418978, area = 122.06 GEs 
-n = 18, k = 1, d = 18, CR = 0.05555555555555555, H_in_req = 0.262251, efficiency = 0.21162978, area = 8.67 GEs 
-n = 18, k = 17, d = 2, CR = 0.9444444444444444, H_in_req = 0.996933, efficiency = 0.94729505, area = 128.73 GEs 
-n = 19, k = 1, d = 19, CR = 0.05263157894736842, H_in_req = 0.249889, efficiency = 0.21040970, area = 8.67 GEs 
-n = 19, k = 18, d = 2, CR = 0.9473684210526315, H_in_req = 0.997098, efficiency = 0.95007296, area = 135.40 GEs 
-n = 20, k = 1, d = 20, CR = 0.05, H_in_req = 0.238628, efficiency = 0.20932170, area = 8.67 GEs 
-n = 20, k = 19, d = 2, CR = 0.95, H_in_req = 0.997247, efficiency = 0.95257268, area = 142.07 GEs 
-n = 21, k = 1, d = 21, CR = 0.047619047619047616, H_in_req = 0.22833, efficiency = 0.20834538, area = 8.67 GEs 
-n = 21, k = 20, d = 2, CR = 0.9523809523809523, H_in_req = 0.997382, efficiency = 0.95483404, area = 148.74 GEs 
-n = 22, k = 1, d = 22, CR = 0.045454545454545456, H_in_req = 0.218877, efficiency = 0.20746457, area = 8.67 GEs 
-n = 22, k = 21, d = 2, CR = 0.9545454545454546, H_in_req = 0.997503, efficiency = 0.95688957, area = 155.41 GEs 
-n = 23, k = 1, d = 23, CR = 0.043478260869565216, H_in_req = 0.21017, efficiency = 0.20666567, area = 8.67 GEs 
-n = 23, k = 11, d = 8, CR = 0.4782608695652174, H_in_req = 0.755233, efficiency = 0.63320566, area = 85.37 GEs 
-n = 23, k = 12, d = 7, CR = 0.5217391304347826, H_in_req = 0.792898, efficiency = 0.65796125, area = 94.04 GEs 
-n = 23, k = 22, d = 2, CR = 0.9565217391304348, H_in_req = 0.997614, efficiency = 0.95876614, area = 162.08 GEs 
-n = 24, k = 1, d = 24, CR = 0.041666666666666664, H_in_req = 0.202125, efficiency = 0.20593782, area = 8.67 GEs 
-n = 24, k = 23, d = 2, CR = 0.9583333333333334, H_in_req = 0.997716, efficiency = 0.96048615, area = 168.75 GEs 
-n = 25, k = 1, d = 25, CR = 0.04, H_in_req = 0.194669, efficiency = 0.20527226, area = 8.67 GEs 
-n = 25, k = 24, d = 2, CR = 0.96, H_in_req = 0.997809, efficiency = 0.96206841, area = 175.42 GEs 
-n = 26, k = 1, d = 26, CR = 0.038461538461538464, H_in_req = 0.18774, efficiency = 0.20466128, area = 8.67 GEs 
-n = 26, k = 25, d = 2, CR = 0.9615384615384616, H_in_req = 0.997895, efficiency = 0.96352883, area = 182.09 GEs 
-n = 27, k = 1, d = 27, CR = 0.037037037037037035, H_in_req = 0.181286, efficiency = 0.20409809, area = 8.67 GEs 
-n = 27, k = 26, d = 2, CR = 0.9629629629629629, H_in_req = 0.997974, efficiency = 0.96488097, area = 188.76 GEs 
-n = 28, k = 1, d = 28, CR = 0.03571428571428571, H_in_req = 0.175258, efficiency = 0.20357779, area = 8.67 GEs 
-n = 28, k = 27, d = 2, CR = 0.9642857142857143, H_in_req = 0.998048, efficiency = 0.96613641, area = 195.43 GEs 
-n = 29, k = 1, d = 29, CR = 0.034482758620689655, H_in_req = 0.169617, efficiency = 0.20309541, area = 8.67 GEs 
-n = 29, k = 28, d = 2, CR = 0.9655172413793104, H_in_req = 0.998116, efficiency = 0.96730520, area = 202.10 GEs 
-n = 30, k = 1, d = 30, CR = 0.03333333333333333, H_in_req = 0.164326, efficiency = 0.20264690, area = 8.67 GEs 
-n = 30, k = 29, d = 2, CR = 0.9666666666666667, H_in_req = 0.99818, efficiency = 0.96839601, area = 208.77 GEs 
-n = 31, k = 1, d = 31, CR = 0.03225806451612903, H_in_req = 0.159353, efficiency = 0.20222933, area = 8.67 GEs 
-n = 31, k = 10, d = 12, CR = 0.3225806451612903, H_in_req = 0.580406, efficiency = 0.55572963, area = 74.70 GEs 
-n = 31, k = 11, d = 11, CR = 0.3548387096774194, H_in_req = 0.612093, efficiency = 0.57966150, area = 83.37 GEs 
-n = 31, k = 30, d = 2, CR = 0.967741935483871, H_in_req = 0.99824, efficiency = 0.96941638, area = 215.44 GEs 
-n = 32, k = 1, d = 32, CR = 0.03125, H_in_req = 0.154672, efficiency = 0.20183884, area = 8.67 GEs 
-n = 32, k = 31, d = 2, CR = 0.96875, H_in_req = 0.998296, efficiency = 0.97037292, area = 222.11 GEs 
-n = 33, k = 1, d = 33, CR = 0.030303030303030304, H_in_req = 0.150257, efficiency = 0.20147317, area = 8.67 GEs 
-n = 33, k = 32, d = 2, CR = 0.9696969696969697, H_in_req = 0.998348, efficiency = 0.97127144, area = 228.78 GEs 
-n = 34, k = 1, d = 34, CR = 0.029411764705882353, H_in_req = 0.146087, efficiency = 0.20113022, area = 8.67 GEs 
-n = 34, k = 33, d = 2, CR = 0.9705882352941176, H_in_req = 0.998398, efficiency = 0.97211706, area = 235.45 GEs 
-n = 35, k = 1, d = 35, CR = 0.02857142857142857, H_in_req = 0.142141, efficiency = 0.20080785, area = 8.67 GEs 
-n = 35, k = 34, d = 2, CR = 0.9714285714285714, H_in_req = 0.998444, efficiency = 0.97291433, area = 242.12 GEs 
-n = 36, k = 1, d = 36, CR = 0.027777777777777776, H_in_req = 0.138402, efficiency = 0.20050429, area = 8.67 GEs 
-n = 36, k = 35, d = 2, CR = 0.9722222222222222, H_in_req = 0.998488, efficiency = 0.97366727, area = 248.79 GEs 
-n = 37, k = 1, d = 37, CR = 0.02702702702702703, H_in_req = 0.134854, efficiency = 0.20021783, area = 8.67 GEs 
-n = 37, k = 36, d = 2, CR = 0.972972972972973, H_in_req = 0.998529, efficiency = 0.97437947, area = 255.46 GEs 
-n = 38, k = 1, d = 38, CR = 0.02631578947368421, H_in_req = 0.131483, efficiency = 0.19994713, area = 8.67 GEs 
-n = 38, k = 37, d = 2, CR = 0.9736842105263158, H_in_req = 0.998568, efficiency = 0.97505417, area = 262.13 GEs 
-n = 39, k = 1, d = 39, CR = 0.02564102564102564, H_in_req = 0.128276, efficiency = 0.19969093, area = 8.67 GEs 
-n = 39, k = 38, d = 2, CR = 0.9743589743589743, H_in_req = 0.998606, efficiency = 0.97569425, area = 268.80 GEs 
-n = 40, k = 1, d = 40, CR = 0.025, H_in_req = 0.125221, efficiency = 0.19944812, area = 8.67 GEs 
-n = 40, k = 39, d = 2, CR = 0.975, H_in_req = 0.998641, efficiency = 0.97630230, area = 275.47 GEs 
-n = 41, k = 1, d = 41, CR = 0.024390243902439025, H_in_req = 0.122308, efficiency = 0.19921754, area = 8.67 GEs 
-n = 41, k = 20, d = 10, CR = 0.4878048780487805, H_in_req = 0.70348, efficiency = 0.69338287, area = 157.40 GEs 
-n = 41, k = 21, d = 9, CR = 0.5121951219512195, H_in_req = 0.726911, efficiency = 0.70458560, area = 166.07 GEs 
-n = 41, k = 40, d = 2, CR = 0.975609756097561, H_in_req = 0.998675, efficiency = 0.97688068, area = 282.14 GEs 
-n = 42, k = 1, d = 42, CR = 0.023809523809523808, H_in_req = 0.119527, efficiency = 0.19899890, area = 8.67 GEs 
-n = 42, k = 41, d = 2, CR = 0.9761904761904762, H_in_req = 0.998706, efficiency = 0.97743148, area = 288.81 GEs 
-n = 43, k = 1, d = 43, CR = 0.023255813953488372, H_in_req = 0.11687, efficiency = 0.19879028, area = 8.67 GEs 
-n = 43, k = 14, d = 14, CR = 0.32558139534883723, H_in_req = 0.537439, efficiency = 0.60575899, area = 113.38 GEs 
-n = 43, k = 15, d = 13, CR = 0.3488372093023256, H_in_req = 0.565485, efficiency = 0.61684085, area = 110.05 GEs 
-n = 43, k = 42, d = 2, CR = 0.9767441860465116, H_in_req = 0.998737, efficiency = 0.97795666, area = 295.48 GEs 
-n = 44, k = 1, d = 44, CR = 0.022727272727272728, H_in_req = 0.114328, efficiency = 0.19859146, area = 8.67 GEs 
-n = 44, k = 43, d = 2, CR = 0.9772727272727273, H_in_req = 0.998766, efficiency = 0.97845795, area = 302.15 GEs 
-n = 45, k = 1, d = 45, CR = 0.022222222222222223, H_in_req = 0.111894, efficiency = 0.19840225, area = 8.67 GEs 
-n = 45, k = 44, d = 2, CR = 0.9777777777777777, H_in_req = 0.998794, efficiency = 0.97893694, area = 308.82 GEs 
-n = 46, k = 1, d = 46, CR = 0.021739130434782608, H_in_req = 0.109562, efficiency = 0.19822112, area = 8.67 GEs 
-n = 46, k = 45, d = 2, CR = 0.9782608695652174, H_in_req = 0.99882, efficiency = 0.97939510, area = 315.49 GEs 
-n = 47, k = 1, d = 47, CR = 0.02127659574468085, H_in_req = 0.107324, efficiency = 0.19804836, area = 8.67 GEs 
-n = 47, k = 23, d = 12, CR = 0.48936170212765956, H_in_req = 0.683008, efficiency = 0.71644934, area = 181.41 GEs 
-n = 47, k = 24, d = 11, CR = 0.5106382978723404, H_in_req = 0.703657, efficiency = 0.72566216, area = 182.08 GEs 
-n = 47, k = 46, d = 2, CR = 0.9787234042553191, H_in_req = 0.998846, efficiency = 0.97983375, area = 322.16 GEs 
-n = 48, k = 1, d = 48, CR = 0.020833333333333332, H_in_req = 0.105176, efficiency = 0.19788310, area = 8.67 GEs 
-n = 48, k = 47, d = 2, CR = 0.9791666666666666, H_in_req = 0.99887, efficiency = 0.98025412, area = 328.83 GEs 
-n = 49, k = 1, d = 49, CR = 0.02040816326530612, H_in_req = 0.103112, efficiency = 0.19772441, area = 8.67 GEs 
-n = 49, k = 48, d = 2, CR = 0.9795918367346939, H_in_req = 0.998893, efficiency = 0.98065732, area = 335.50 GEs 
-n = 50, k = 1, d = 50, CR = 0.02, H_in_req = 0.101128, efficiency = 0.19757260, area = 8.67 GEs 
-n = 50, k = 49, d = 2, CR = 0.98, H_in_req = 0.998916, efficiency = 0.98104437, area = 342.17 GEs 
-n = 51, k = 1, d = 51, CR = 0.0196078431372549, H_in_req = 0.099218, efficiency = 0.19742692, area = 8.67 GEs 
-n = 51, k = 8, d = 24, CR = 0.1568627450980392, H_in_req = 0.329469, efficiency = 0.47604863, area = 61.36 GEs 
-n = 51, k = 17, d = 16, CR = 0.3333333333333333, H_in_req = 0.521561, efficiency = 0.63907049, area = 127.39 GEs 
-n = 51, k = 19, d = 14, CR = 0.37254901960784315, H_in_req = 0.568465, efficiency = 0.65532543, area = 148.73 GEs 
-n = 51, k = 50, d = 2, CR = 0.9803921568627451, H_in_req = 0.998937, efficiency = 0.98141625, area = 348.84 GEs 
-n = 52, k = 1, d = 52, CR = 0.019230769230769232, H_in_req = 0.097379, efficiency = 0.19728681, area = 8.67 GEs 
-n = 52, k = 51, d = 2, CR = 0.9807692307692307, H_in_req = 0.998958, efficiency = 0.98177381, area = 355.51 GEs 
-n = 53, k = 1, d = 53, CR = 0.018867924528301886, H_in_req = 0.095607, efficiency = 0.19715233, area = 8.67 GEs 
-n = 53, k = 52, d = 2, CR = 0.9811320754716981, H_in_req = 0.998978, efficiency = 0.98211788, area = 362.18 GEs 
-n = 54, k = 1, d = 54, CR = 0.018518518518518517, H_in_req = 0.093898, efficiency = 0.19702318, area = 8.67 GEs 
-n = 54, k = 53, d = 2, CR = 0.9814814814814815, H_in_req = 0.998997, efficiency = 0.98244919, area = 368.85 GEs 
-n = 55, k = 1, d = 55, CR = 0.01818181818181818, H_in_req = 0.092249, efficiency = 0.19689861, area = 8.67 GEs 
-n = 55, k = 20, d = 16, CR = 0.36363636363636365, H_in_req = 0.543307, efficiency = 0.66926857, area = 157.40 GEs 
-n = 55, k = 21, d = 15, CR = 0.38181818181818183, H_in_req = 0.560189, efficiency = 0.68155655, area = 166.07 GEs 
-n = 56, k = 1, d = 56, CR = 0.017857142857142856, H_in_req = 0.090657, efficiency = 0.19677885, area = 8.67 GEs 
-n = 57, k = 1, d = 57, CR = 0.017543859649122806, H_in_req = 0.089119, efficiency = 0.19666309, area = 8.67 GEs 
-n = 58, k = 1, d = 58, CR = 0.017241379310344827, H_in_req = 0.087632, efficiency = 0.19655198, area = 8.67 GEs 
-n = 59, k = 1, d = 59, CR = 0.01694915254237288, H_in_req = 0.086194, efficiency = 0.19644449, area = 8.67 GEs 
-n = 60, k = 1, d = 60, CR = 0.016666666666666666, H_in_req = 0.084802, efficiency = 0.19634047, area = 8.67 GEs 
-n = 61, k = 1, d = 61, CR = 0.01639344262295082, H_in_req = 0.083455, efficiency = 0.19624012, area = 8.67 GEs 
-n = 62, k = 1, d = 62, CR = 0.016129032258064516, H_in_req = 0.082149, efficiency = 0.19614292, area = 8.67 GEs 
-n = 63, k = 1, d = 63, CR = 0.015873015873015872, H_in_req = 0.080884, efficiency = 0.19604916, area = 8.67 GEs 
-n = 63, k = 10, d = 27, CR = 0.15873015873015872, H_in_req = 0.309858, efficiency = 0.51221724, area = 80.70 GEs 
-n = 63, k = 11, d = 26, CR = 0.1746031746031746, H_in_req = 0.326843, efficiency = 0.53416372, area = 81.37 GEs 
-n = 63, k = 15, d = 24, CR = 0.23809523809523808, H_in_req = 0.39211, efficiency = 0.60717588, area = 116.05 GEs 
-n = 63, k = 16, d = 23, CR = 0.25396825396825395, H_in_req = 0.408151, efficiency = 0.62220326, area = 120.72 GEs 
-n = 63, k = 17, d = 22, CR = 0.2698412698412698, H_in_req = 0.424956, efficiency = 0.63495032, area = 133.39 GEs 
-n = 63, k = 18, d = 21, CR = 0.2857142857142857, H_in_req = 0.440939, efficiency = 0.64793260, area = 142.06 GEs 
-n = 63, k = 35, d = 12, CR = 0.5555555555555556, H_in_req = 0.710525, efficiency = 0.78187312, area = 269.45 GEs 
-n = 63, k = 36, d = 11, CR = 0.5714285714285714, H_in_req = 0.726106, efficiency = 0.78695527, area = 282.12 GEs 
-n = 63, k = 45, d = 8, CR = 0.7142857142857143, H_in_req = 0.856131, efficiency = 0.83430033, area = 356.15 GEs 
-n = 63, k = 46, d = 7, CR = 0.7301587301587301, H_in_req = 0.870842, efficiency = 0.83843323, area = 356.82 GEs 
-n = 64, k = 1, d = 64, CR = 0.015625, H_in_req = 0.079657, efficiency = 0.19595834, area = 8.67 GEs 
-n = 65, k = 1, d = 65, CR = 0.015384615384615385, H_in_req = 0.078467, efficiency = 0.19587018, area = 8.67 GEs 
-n = 65, k = 12, d = 26, CR = 0.18461538461538463, H_in_req = 0.332645, efficiency = 0.55494606, area = 92.04 GEs 
-n = 65, k = 13, d = 25, CR = 0.2, H_in_req = 0.347978, efficiency = 0.57470576, area = 96.71 GEs 
-n = 65, k = 40, d = 10, CR = 0.6153846153846154, H_in_req = 0.766477, efficiency = 0.80285477, area = 294.80 GEs 
-n = 65, k = 52, d = 6, CR = 0.8, H_in_req = 0.923186, efficiency = 0.86654799, area = 398.84 GEs 
-n = 65, k = 53, d = 5, CR = 0.8153846153846154, H_in_req = 0.936326, efficiency = 0.87081787, area = 403.51 GEs 
-n = 66, k = 1, d = 66, CR = 0.015151515151515152, H_in_req = 0.077312, efficiency = 0.19578528, area = 8.67 GEs 
-n = 67, k = 1, d = 67, CR = 0.014925373134328358, H_in_req = 0.07619, efficiency = 0.19570240, area = 8.67 GEs 
-n = 68, k = 1, d = 68, CR = 0.014705882352941176, H_in_req = 0.0751, efficiency = 0.19562229, area = 8.67 GEs 
-n = 69, k = 1, d = 69, CR = 0.014492753623188406, H_in_req = 0.074041, efficiency = 0.19554444, area = 8.67 GEs 
-n = 70, k = 1, d = 70, CR = 0.014285714285714285, H_in_req = 0.073012, efficiency = 0.19546914, area = 8.67 GEs 
-n = 71, k = 1, d = 71, CR = 0.014084507042253521, H_in_req = 0.07201, efficiency = 0.19539593, area = 8.67 GEs 
-n = 72, k = 1, d = 72, CR = 0.013888888888888888, H_in_req = 0.071036, efficiency = 0.19532453, area = 8.67 GEs 
-n = 73, k = 1, d = 73, CR = 0.0136986301369863, H_in_req = 0.070088, efficiency = 0.19525514, area = 8.67 GEs 
-n = 73, k = 27, d = 20, CR = 0.3698630136986301, H_in_req = 0.509687, efficiency = 0.72564049, area = 216.09 GEs 
-n = 74, k = 1, d = 74, CR = 0.013513513513513514, H_in_req = 0.069165, efficiency = 0.19518814, area = 8.67 GEs 
-n = 75, k = 1, d = 75, CR = 0.013333333333333334, H_in_req = 0.068265, efficiency = 0.19512274, area = 8.67 GEs 
-n = 76, k = 1, d = 76, CR = 0.013157894736842105, H_in_req = 0.067389, efficiency = 0.19505895, area = 8.67 GEs 
-n = 77, k = 1, d = 77, CR = 0.012987012987012988, H_in_req = 0.066535, efficiency = 0.19499692, area = 8.67 GEs 
-n = 78, k = 1, d = 78, CR = 0.01282051282051282, H_in_req = 0.065702, efficiency = 0.19493623, area = 8.67 GEs 
-n = 79, k = 1, d = 79, CR = 0.012658227848101266, H_in_req = 0.06489, efficiency = 0.19487765, area = 8.67 GEs 
-n = 79, k = 40, d = 15, CR = 0.5063291139240507, H_in_req = 0.636739, efficiency = 0.79517139, area = 304.80 GEs 
-n = 80, k = 1, d = 80, CR = 0.0125, H_in_req = 0.064098, efficiency = 0.19482032, area = 8.67 GEs 
-n = 81, k = 1, d = 81, CR = 0.012345679012345678, H_in_req = 0.063325, efficiency = 0.19476416, area = 8.67 GEs 
-n = 82, k = 1, d = 82, CR = 0.012195121951219513, H_in_req = 0.06257, efficiency = 0.19470995, area = 8.67 GEs 
-n = 83, k = 1, d = 83, CR = 0.012048192771084338, H_in_req = 0.061833, efficiency = 0.19465673, area = 8.67 GEs 
-n = 84, k = 1, d = 84, CR = 0.011904761904761904, H_in_req = 0.061113, efficiency = 0.19460476, area = 8.67 GEs 
-n = 85, k = 1, d = 85, CR = 0.011764705882352941, H_in_req = 0.06041, efficiency = 0.19455437, area = 8.67 GEs 
-n = 86, k = 1, d = 86, CR = 0.011627906976744186, H_in_req = 0.059723, efficiency = 0.19450487, area = 8.67 GEs 
-n = 87, k = 1, d = 87, CR = 0.011494252873563218, H_in_req = 0.059051, efficiency = 0.19445678, area = 8.67 GEs 
-n = 87, k = 31, d = 22, CR = 0.3563218390804598, H_in_req = 0.487396, efficiency = 0.73104933, area = 244.77 GEs 
-n = 88, k = 1, d = 88, CR = 0.011363636363636364, H_in_req = 0.058394, efficiency = 0.19440955, area = 8.67 GEs 
-n = 89, k = 1, d = 89, CR = 0.011235955056179775, H_in_req = 0.057752, efficiency = 0.19436347, area = 8.67 GEs 
-n = 89, k = 11, d = 40, CR = 0.12359550561797752, H_in_req = 0.233728, efficiency = 0.52875376, area = 89.37 GEs 
-n = 89, k = 23, d = 28, CR = 0.25842696629213485, H_in_req = 0.374391, efficiency = 0.69023116, area = 179.41 GEs 
-n = 89, k = 55, d = 12, CR = 0.6179775280898876, H_in_req = 0.734089, efficiency = 0.84181479, area = 422.85 GEs 
-n = 89, k = 56, d = 11, CR = 0.6292134831460674, H_in_req = 0.745334, efficiency = 0.84418841, area = 435.52 GEs 
-n = 90, k = 1, d = 90, CR = 0.011111111111111112, H_in_req = 0.057123, efficiency = 0.19431852, area = 8.67 GEs 
-n = 91, k = 1, d = 91, CR = 0.01098901098901099, H_in_req = 0.056508, efficiency = 0.19427437, area = 8.67 GEs 
-n = 92, k = 1, d = 92, CR = 0.010869565217391304, H_in_req = 0.055906, efficiency = 0.19423153, area = 8.67 GEs 
-n = 93, k = 1, d = 93, CR = 0.010752688172043012, H_in_req = 0.055317, efficiency = 0.19418937, area = 8.67 GEs 
-n = 93, k = 23, d = 29, CR = 0.24731182795698925, H_in_req = 0.358542, efficiency = 0.68974095, area = 179.41 GEs 
-n = 94, k = 1, d = 94, CR = 0.010638297872340425, H_in_req = 0.05474, efficiency = 0.19414814, area = 8.67 GEs 
-n = 95, k = 1, d = 95, CR = 0.010526315789473684, H_in_req = 0.054175, efficiency = 0.19410815, area = 8.67 GEs 
-n = 96, k = 1, d = 96, CR = 0.010416666666666666, H_in_req = 0.053622, efficiency = 0.19406850, area = 8.67 GEs 
-n = 97, k = 1, d = 97, CR = 0.010309278350515464, H_in_req = 0.05308, efficiency = 0.19403005, area = 8.67 GEs 
-n = 98, k = 1, d = 98, CR = 0.01020408163265306, H_in_req = 0.052548, efficiency = 0.19399199, area = 8.67 GEs 
-n = 99, k = 1, d = 99, CR = 0.010101010101010102, H_in_req = 0.052027, efficiency = 0.19395529, area = 8.67 GEs 
-n = 100, k = 1, d = 100, CR = 0.01, H_in_req = 0.051517, efficiency = 0.19391878, area = 8.67 GEs 
-n = 101, k = 1, d = 101, CR = 0.009900990099009901, H_in_req = 0.051016, efficiency = 0.19388356, area = 8.67 GEs 
-n = 102, k = 1, d = 102, CR = 0.00980392156862745, H_in_req = 0.050525, efficiency = 0.19384853, area = 8.67 GEs 
-n = 103, k = 1, d = 103, CR = 0.009708737864077669, H_in_req = 0.050043, efficiency = 0.19381442, area = 8.67 GEs 
-n = 103, k = 52, d = 19, CR = 0.5048543689320388, H_in_req = 0.606164, efficiency = 0.83285163, area = 392.84 GEs 
-n = 104, k = 1, d = 104, CR = 0.009615384615384616, H_in_req = 0.049571, efficiency = 0.19378112, area = 8.67 GEs 
-n = 105, k = 1, d = 105, CR = 0.009523809523809525, H_in_req = 0.049107, efficiency = 0.19374808, area = 8.67 GEs 
-n = 106, k = 1, d = 106, CR = 0.009433962264150943, H_in_req = 0.048652, efficiency = 0.19371618, area = 8.67 GEs 
-n = 107, k = 1, d = 107, CR = 0.009345794392523364, H_in_req = 0.048205, efficiency = 0.19368449, area = 8.67 GEs 
-n = 108, k = 1, d = 108, CR = 0.009259259259259259, H_in_req = 0.047766, efficiency = 0.19365348, area = 8.67 GEs 
-n = 109, k = 1, d = 109, CR = 0.009174311926605505, H_in_req = 0.047335, efficiency = 0.19362322, area = 8.67 GEs 
-n = 110, k = 1, d = 110, CR = 0.00909090909090909, H_in_req = 0.046912, efficiency = 0.19359332, area = 8.67 GEs 
-n = 111, k = 1, d = 111, CR = 0.009009009009009009, H_in_req = 0.046497, efficiency = 0.19356391, area = 8.67 GEs 
-n = 112, k = 1, d = 112, CR = 0.008928571428571428, H_in_req = 0.046088, efficiency = 0.19353512, area = 8.67 GEs 
-n = 113, k = 1, d = 113, CR = 0.008849557522123894, H_in_req = 0.045687, efficiency = 0.19350666, area = 8.67 GEs 
-n = 114, k = 1, d = 114, CR = 0.008771929824561403, H_in_req = 0.045293, efficiency = 0.19347924, area = 8.67 GEs 
-n = 115, k = 1, d = 115, CR = 0.008695652173913044, H_in_req = 0.044905, efficiency = 0.19345210, area = 8.67 GEs 
-n = 116, k = 1, d = 116, CR = 0.008620689655172414, H_in_req = 0.044525, efficiency = 0.19342500, area = 8.67 GEs 
-n = 117, k = 1, d = 117, CR = 0.008547008547008548, H_in_req = 0.04415, efficiency = 0.19339875, area = 8.67 GEs 
-n = 118, k = 1, d = 118, CR = 0.00847457627118644, H_in_req = 0.043782, efficiency = 0.19337316, area = 8.67 GEs 
-n = 119, k = 1, d = 119, CR = 0.008403361344537815, H_in_req = 0.04342, efficiency = 0.19334755, area = 8.67 GEs 
-n = 120, k = 1, d = 120, CR = 0.008333333333333333, H_in_req = 0.043063, efficiency = 0.19332229, area = 8.67 GEs 
-n = 121, k = 1, d = 121, CR = 0.008264462809917356, H_in_req = 0.042713, efficiency = 0.19329777, area = 8.67 GEs 
-n = 122, k = 1, d = 122, CR = 0.00819672131147541, H_in_req = 0.042368, efficiency = 0.19327392, area = 8.67 GEs 
-n = 123, k = 1, d = 123, CR = 0.008130081300813009, H_in_req = 0.042029, efficiency = 0.19325009, area = 8.67 GEs 
-n = 124, k = 1, d = 124, CR = 0.008064516129032258, H_in_req = 0.041695, efficiency = 0.19322677, area = 8.67 GEs 
-n = 125, k = 1, d = 125, CR = 0.008, H_in_req = 0.041366, efficiency = 0.19320363, area = 8.67 GEs 
-n = 126, k = 1, d = 126, CR = 0.007936507936507936, H_in_req = 0.041043, efficiency = 0.19318092, area = 8.67 GEs 
-n = 127, k = 1, d = 127, CR = 0.007874015748031496, H_in_req = 0.040724, efficiency = 0.19315891, area = 8.67 GEs 
-n = 127, k = 14, d = 56, CR = 0.11023622047244094, H_in_req = 0.1901, efficiency = 0.57984633, area = 109.38 GEs 
-n = 127, k = 21, d = 48, CR = 0.16535433070866143, H_in_req = 0.247248, efficiency = 0.66874951, area = 164.07 GEs 
-n = 127, k = 22, d = 47, CR = 0.1732283464566929, H_in_req = 0.255141, efficiency = 0.67892242, area = 176.74 GEs 
-n = 127, k = 28, d = 44, CR = 0.2204724409448819, H_in_req = 0.302499, efficiency = 0.72881306, area = 210.76 GEs 
-n = 127, k = 29, d = 43, CR = 0.2283464566929134, H_in_req = 0.310386, efficiency = 0.73566076, area = 219.43 GEs 
-n = 127, k = 35, d = 36, CR = 0.2755905511811024, H_in_req = 0.358345, efficiency = 0.76904436, area = 281.45 GEs 
-n = 128, k = 1, d = 128, CR = 0.0078125, H_in_req = 0.040411, efficiency = 0.19313676, area = 8.67 GEs 
-n = 129, k = 1, d = 129, CR = 0.007751937984496124, H_in_req = 0.040102, efficiency = 0.19311506, area = 8.67 GEs 
-n = 129, k = 100, d = 10, CR = 0.7751937984496124, H_in_req = 0.85485, efficiency = 0.90680963, area = 771.00 GEs 
-n = 129, k = 114, d = 6, CR = 0.8837209302325582, H_in_req = 0.952408, efficiency = 0.92787311, area = 876.38 GEs 
-n = 130, k = 1, d = 130, CR = 0.007692307692307693, H_in_req = 0.039798, efficiency = 0.19309386, area = 8.67 GEs 
-n = 131, k = 1, d = 131, CR = 0.007633587786259542, H_in_req = 0.039498, efficiency = 0.19307321, area = 8.67 GEs 
-n = 132, k = 1, d = 132, CR = 0.007575757575757576, H_in_req = 0.039203, efficiency = 0.19305262, area = 8.67 GEs 
-n = 133, k = 1, d = 133, CR = 0.007518796992481203, H_in_req = 0.038913, efficiency = 0.19303215, area = 8.67 GEs 
-n = 134, k = 1, d = 134, CR = 0.007462686567164179, H_in_req = 0.038626, efficiency = 0.19301252, area = 8.67 GEs 
-n = 135, k = 1, d = 135, CR = 0.007407407407407408, H_in_req = 0.038344, efficiency = 0.19299265, area = 8.67 GEs 
-n = 136, k = 1, d = 136, CR = 0.007352941176470588, H_in_req = 0.038066, efficiency = 0.19297327, area = 8.67 GEs 
-n = 137, k = 1, d = 137, CR = 0.0072992700729927005, H_in_req = 0.037792, efficiency = 0.19295424, area = 8.67 GEs 
-n = 138, k = 1, d = 138, CR = 0.007246376811594203, H_in_req = 0.037522, efficiency = 0.19293541, area = 8.67 GEs 
-n = 139, k = 1, d = 139, CR = 0.007194244604316547, H_in_req = 0.037255, efficiency = 0.19291666, area = 8.67 GEs 
-n = 140, k = 1, d = 140, CR = 0.007142857142857143, H_in_req = 0.036993, efficiency = 0.19289847, area = 8.67 GEs 
-n = 141, k = 1, d = 141, CR = 0.0070921985815602835, H_in_req = 0.036734, efficiency = 0.19288045, area = 8.67 GEs 
-n = 142, k = 1, d = 142, CR = 0.007042253521126761, H_in_req = 0.036478, efficiency = 0.19286280, area = 8.67 GEs 
-n = 143, k = 1, d = 143, CR = 0.006993006993006993, H_in_req = 0.036226, efficiency = 0.19284544, area = 8.67 GEs 
-n = 144, k = 1, d = 144, CR = 0.006944444444444444, H_in_req = 0.035978, efficiency = 0.19282831, area = 8.67 GEs 
-n = 145, k = 1, d = 145, CR = 0.006896551724137931, H_in_req = 0.035733, efficiency = 0.19281133, area = 8.67 GEs 
-n = 146, k = 1, d = 146, CR = 0.00684931506849315, H_in_req = 0.035491, efficiency = 0.19279445, area = 8.67 GEs 
-n = 147, k = 1, d = 147, CR = 0.006802721088435374, H_in_req = 0.035253, efficiency = 0.19277795, area = 8.67 GEs 
-n = 148, k = 1, d = 148, CR = 0.006756756756756757, H_in_req = 0.035018, efficiency = 0.19276147, area = 8.67 GEs 
-n = 149, k = 1, d = 149, CR = 0.006711409395973154, H_in_req = 0.034786, efficiency = 0.19274532, area = 8.67 GEs 
-n = 150, k = 1, d = 150, CR = 0.006666666666666667, H_in_req = 0.034557, efficiency = 0.19272980, area = 8.67 GEs 
-n = 151, k = 1, d = 151, CR = 0.006622516556291391, H_in_req = 0.034331, efficiency = 0.19271393, area = 8.67 GEs 
-n = 151, k = 31, d = 47, CR = 0.2052980132450331, H_in_req = 0.274711, efficiency = 0.74729978, area = 232.77 GEs 
-n = 151, k = 135, d = 6, CR = 0.8940397350993378, H_in_req = 0.954992, efficiency = 0.93616893, area = 1035.84 GEs 
-n = 151, k = 136, d = 5, CR = 0.9006622516556292, H_in_req = 0.9613, efficiency = 0.93691431, area = 1029.84 GEs 
-n = 152, k = 1, d = 152, CR = 0.006578947368421052, H_in_req = 0.034107, efficiency = 0.19269869, area = 8.67 GEs 
-n = 153, k = 1, d = 153, CR = 0.006535947712418301, H_in_req = 0.033887, efficiency = 0.19268310, area = 8.67 GEs 
-n = 154, k = 1, d = 154, CR = 0.006493506493506494, H_in_req = 0.03367, efficiency = 0.19266819, area = 8.67 GEs 
-n = 155, k = 1, d = 155, CR = 0.0064516129032258064, H_in_req = 0.033455, efficiency = 0.19265330, area = 8.67 GEs 
-n = 156, k = 1, d = 156, CR = 0.00641025641025641, H_in_req = 0.033243, efficiency = 0.19263847, area = 8.67 GEs 
-n = 157, k = 1, d = 157, CR = 0.006369426751592357, H_in_req = 0.033034, efficiency = 0.19262443, area = 8.67 GEs 
-n = 158, k = 1, d = 158, CR = 0.006329113924050633, H_in_req = 0.032827, efficiency = 0.19260987, area = 8.67 GEs 
-n = 159, k = 1, d = 159, CR = 0.006289308176100629, H_in_req = 0.032623, efficiency = 0.19259586, area = 8.67 GEs 
-n = 160, k = 1, d = 160, CR = 0.00625, H_in_req = 0.032422, efficiency = 0.19258214, area = 8.67 GEs 
-n = 161, k = 1, d = 161, CR = 0.006211180124223602, H_in_req = 0.032223, efficiency = 0.19256842, area = 8.67 GEs 
-n = 162, k = 1, d = 162, CR = 0.006172839506172839, H_in_req = 0.032026, efficiency = 0.19255444, area = 8.67 GEs 
-n = 163, k = 1, d = 163, CR = 0.006134969325153374, H_in_req = 0.031832, efficiency = 0.19254134, area = 8.67 GEs 
-n = 164, k = 1, d = 164, CR = 0.006097560975609756, H_in_req = 0.03164, efficiency = 0.19252816, area = 8.67 GEs 
-n = 165, k = 1, d = 165, CR = 0.006060606060606061, H_in_req = 0.03145, efficiency = 0.19251463, area = 8.67 GEs 
-n = 166, k = 1, d = 166, CR = 0.006024096385542169, H_in_req = 0.031263, efficiency = 0.19250194, area = 8.67 GEs 
-n = 167, k = 1, d = 167, CR = 0.005988023952095809, H_in_req = 0.031078, efficiency = 0.19248914, area = 8.67 GEs 
-n = 168, k = 1, d = 168, CR = 0.005952380952380952, H_in_req = 0.030895, efficiency = 0.19247669, area = 8.67 GEs 
-n = 169, k = 1, d = 169, CR = 0.005917159763313609, H_in_req = 0.030714, efficiency = 0.19246437, area = 8.67 GEs 
-n = 170, k = 1, d = 170, CR = 0.0058823529411764705, H_in_req = 0.030535, efficiency = 0.19245194, area = 8.67 GEs 
-n = 171, k = 1, d = 171, CR = 0.005847953216374269, H_in_req = 0.030359, efficiency = 0.19243990, area = 8.67 GEs 
-n = 172, k = 1, d = 172, CR = 0.005813953488372093, H_in_req = 0.030184, efficiency = 0.19242767, area = 8.67 GEs 
-n = 173, k = 1, d = 173, CR = 0.005780346820809248, H_in_req = 0.030011, efficiency = 0.19241577, area = 8.67 GEs 
-n = 174, k = 1, d = 174, CR = 0.005747126436781609, H_in_req = 0.029841, efficiency = 0.19240399, area = 8.67 GEs 
-n = 175, k = 1, d = 175, CR = 0.005714285714285714, H_in_req = 0.029672, efficiency = 0.19239248, area = 8.67 GEs 
-n = 176, k = 1, d = 176, CR = 0.005681818181818182, H_in_req = 0.029505, efficiency = 0.19238103, area = 8.67 GEs 
-n = 177, k = 1, d = 177, CR = 0.005649717514124294, H_in_req = 0.02934, efficiency = 0.19236984, area = 8.67 GEs 
-n = 178, k = 1, d = 178, CR = 0.0056179775280898875, H_in_req = 0.029177, efficiency = 0.19235829, area = 8.67 GEs 
-n = 179, k = 1, d = 179, CR = 0.00558659217877095, H_in_req = 0.029016, efficiency = 0.19234737, area = 8.67 GEs 
-n = 180, k = 1, d = 180, CR = 0.005555555555555556, H_in_req = 0.028856, efficiency = 0.19233647, area = 8.67 GEs 
-n = 181, k = 1, d = 181, CR = 0.0055248618784530384, H_in_req = 0.028698, efficiency = 0.19232542, area = 8.67 GEs 
-n = 182, k = 1, d = 182, CR = 0.005494505494505495, H_in_req = 0.028542, efficiency = 0.19231479, area = 8.67 GEs 
-n = 183, k = 1, d = 183, CR = 0.00546448087431694, H_in_req = 0.028388, efficiency = 0.19230402, area = 8.67 GEs 
-n = 184, k = 1, d = 184, CR = 0.005434782608695652, H_in_req = 0.028235, efficiency = 0.19229372, area = 8.67 GEs 
-n = 185, k = 1, d = 185, CR = 0.005405405405405406, H_in_req = 0.028084, efficiency = 0.19228330, area = 8.67 GEs 
-n = 186, k = 1, d = 186, CR = 0.005376344086021506, H_in_req = 0.027935, efficiency = 0.19227298, area = 8.67 GEs 
-n = 187, k = 1, d = 187, CR = 0.0053475935828877, H_in_req = 0.027787, efficiency = 0.19226301, area = 8.67 GEs 
-n = 188, k = 1, d = 188, CR = 0.005319148936170213, H_in_req = 0.02764, efficiency = 0.19225279, area = 8.67 GEs 
-n = 189, k = 1, d = 189, CR = 0.005291005291005291, H_in_req = 0.027495, efficiency = 0.19224298, area = 8.67 GEs 
-n = 190, k = 1, d = 190, CR = 0.005263157894736842, H_in_req = 0.027352, efficiency = 0.19223299, area = 8.67 GEs 
-n = 191, k = 1, d = 191, CR = 0.005235602094240838, H_in_req = 0.02721, efficiency = 0.19222350, area = 8.67 GEs 
-n = 192, k = 1, d = 192, CR = 0.005208333333333333, H_in_req = 0.02707, efficiency = 0.19221392, area = 8.67 GEs 
-n = 193, k = 1, d = 193, CR = 0.0051813471502590676, H_in_req = 0.026931, efficiency = 0.19220409, area = 8.67 GEs 
-n = 194, k = 1, d = 194, CR = 0.005154639175257732, H_in_req = 0.026794, efficiency = 0.19219470, area = 8.67 GEs 
-n = 195, k = 1, d = 195, CR = 0.005128205128205128, H_in_req = 0.026657, efficiency = 0.19218559, area = 8.67 GEs 
-n = 196, k = 1, d = 196, CR = 0.00510204081632653, H_in_req = 0.026523, efficiency = 0.19217618, area = 8.67 GEs 
-n = 197, k = 1, d = 197, CR = 0.005076142131979695, H_in_req = 0.026389, efficiency = 0.19216719, area = 8.67 GEs 
-n = 198, k = 1, d = 198, CR = 0.005050505050505051, H_in_req = 0.026257, efficiency = 0.19215802, area = 8.67 GEs 
-n = 199, k = 1, d = 199, CR = 0.005025125628140704, H_in_req = 0.026127, efficiency = 0.19214897, area = 8.67 GEs 
-n = 200, k = 1, d = 200, CR = 0.005, H_in_req = 0.025997, efficiency = 0.19214032, area = 8.67 GEs 
-n = 201, k = 1, d = 201, CR = 0.004975124378109453, H_in_req = 0.025869, efficiency = 0.19213151, area = 8.67 GEs 
-n = 202, k = 1, d = 202, CR = 0.0049504950495049506, H_in_req = 0.025742, efficiency = 0.19212283, area = 8.67 GEs 
-n = 203, k = 1, d = 203, CR = 0.0049261083743842365, H_in_req = 0.025616, efficiency = 0.19211413, area = 8.67 GEs 
-n = 204, k = 1, d = 204, CR = 0.004901960784313725, H_in_req = 0.025492, efficiency = 0.19210574, area = 8.67 GEs 
-n = 205, k = 1, d = 205, CR = 0.004878048780487805, H_in_req = 0.025369, efficiency = 0.19209751, area = 8.67 GEs 
-n = 206, k = 1, d = 206, CR = 0.0048543689320388345, H_in_req = 0.025247, efficiency = 0.19208887, area = 8.67 GEs 
-n = 207, k = 1, d = 207, CR = 0.004830917874396135, H_in_req = 0.025126, efficiency = 0.19208058, area = 8.67 GEs 
-n = 208, k = 1, d = 208, CR = 0.004807692307692308, H_in_req = 0.025006, efficiency = 0.19207252, area = 8.67 GEs 
-n = 209, k = 1, d = 209, CR = 0.004784688995215311, H_in_req = 0.024887, efficiency = 0.19206457, area = 8.67 GEs 
-n = 210, k = 1, d = 210, CR = 0.004761904761904762, H_in_req = 0.02477, efficiency = 0.19205613, area = 8.67 GEs 
-n = 211, k = 1, d = 211, CR = 0.004739336492890996, H_in_req = 0.024654, efficiency = 0.19204847, area = 8.67 GEs 
-n = 212, k = 1, d = 212, CR = 0.0047169811320754715, H_in_req = 0.024538, efficiency = 0.19204054, area = 8.67 GEs 
-n = 213, k = 1, d = 213, CR = 0.004694835680751174, H_in_req = 0.024424, efficiency = 0.19203269, area = 8.67 GEs 
-n = 214, k = 1, d = 214, CR = 0.004672897196261682, H_in_req = 0.024311, efficiency = 0.19202526, area = 8.67 GEs 
-n = 215, k = 1, d = 215, CR = 0.004651162790697674, H_in_req = 0.024199, efficiency = 0.19201721, area = 8.67 GEs 
-n = 216, k = 1, d = 216, CR = 0.004629629629629629, H_in_req = 0.024088, efficiency = 0.19200982, area = 8.67 GEs 
-n = 217, k = 1, d = 217, CR = 0.004608294930875576, H_in_req = 0.023978, efficiency = 0.19200204, area = 8.67 GEs 
-n = 218, k = 1, d = 218, CR = 0.0045871559633027525, H_in_req = 0.023869, efficiency = 0.19199472, area = 8.67 GEs 
-n = 219, k = 1, d = 219, CR = 0.0045662100456621, H_in_req = 0.023761, efficiency = 0.19198725, area = 8.67 GEs 
-n = 220, k = 1, d = 220, CR = 0.004545454545454545, H_in_req = 0.023654, efficiency = 0.19198002, area = 8.67 GEs 
-n = 221, k = 1, d = 221, CR = 0.004524886877828055, H_in_req = 0.023547, efficiency = 0.19197291, area = 8.67 GEs 
-n = 222, k = 1, d = 222, CR = 0.0045045045045045045, H_in_req = 0.023442, efficiency = 0.19196583, area = 8.67 GEs 
-n = 223, k = 1, d = 223, CR = 0.004484304932735426, H_in_req = 0.023338, efficiency = 0.19195866, area = 8.67 GEs 
-n = 224, k = 1, d = 224, CR = 0.004464285714285714, H_in_req = 0.023235, efficiency = 0.19195131, area = 8.67 GEs 
-n = 225, k = 1, d = 225, CR = 0.0044444444444444444, H_in_req = 0.023132, efficiency = 0.19194465, area = 8.67 GEs 
-n = 226, k = 1, d = 226, CR = 0.004424778761061947, H_in_req = 0.023031, efficiency = 0.19193760, area = 8.67 GEs 
-n = 227, k = 1, d = 227, CR = 0.004405286343612335, H_in_req = 0.02293, efficiency = 0.19193056, area = 8.67 GEs 
-n = 228, k = 1, d = 228, CR = 0.0043859649122807015, H_in_req = 0.02283, efficiency = 0.19192391, area = 8.67 GEs 
-n = 229, k = 1, d = 229, CR = 0.004366812227074236, H_in_req = 0.022731, efficiency = 0.19191708, area = 8.67 GEs 
-n = 230, k = 1, d = 230, CR = 0.004347826086956522, H_in_req = 0.022633, efficiency = 0.19191046, area = 8.67 GEs 
-n = 231, k = 1, d = 231, CR = 0.004329004329004329, H_in_req = 0.022536, efficiency = 0.19190397, area = 8.67 GEs 
-n = 232, k = 1, d = 232, CR = 0.004310344827586207, H_in_req = 0.02244, efficiency = 0.19189751, area = 8.67 GEs 
-n = 233, k = 1, d = 233, CR = 0.004291845493562232, H_in_req = 0.022344, efficiency = 0.19189099, area = 8.67 GEs 
-n = 233, k = 30, d = 88, CR = 0.12875536480686695, H_in_req = 0.173765, efficiency = 0.74095269, area = 230.10 GEs 
-n = 234, k = 1, d = 234, CR = 0.004273504273504274, H_in_req = 0.022249, efficiency = 0.19188431, area = 8.67 GEs 
-n = 235, k = 1, d = 235, CR = 0.00425531914893617, H_in_req = 0.022156, efficiency = 0.19187790, area = 8.67 GEs 
-n = 236, k = 1, d = 236, CR = 0.00423728813559322, H_in_req = 0.022062, efficiency = 0.19187168, area = 8.67 GEs 
-n = 237, k = 1, d = 237, CR = 0.004219409282700422, H_in_req = 0.02197, efficiency = 0.19186556, area = 8.67 GEs 
-n = 238, k = 1, d = 238, CR = 0.004201680672268907, H_in_req = 0.021878, efficiency = 0.19185945, area = 8.67 GEs 
-n = 239, k = 1, d = 239, CR = 0.0041841004184100415, H_in_req = 0.021788, efficiency = 0.19185327, area = 8.67 GEs 
-n = 240, k = 1, d = 240, CR = 0.004166666666666667, H_in_req = 0.021697, efficiency = 0.19184694, area = 8.67 GEs 
-n = 241, k = 1, d = 241, CR = 0.004149377593360996, H_in_req = 0.021608, efficiency = 0.19184088, area = 8.67 GEs 
-n = 241, k = 24, d = 94, CR = 0.0995850622406639, H_in_req = 0.143089, efficiency = 0.69593719, area = 192.08 GEs 
-n = 241, k = 25, d = 93, CR = 0.1037344398340249, H_in_req = 0.147256, efficiency = 0.70442540, area = 184.75 GEs 
-n = 242, k = 1, d = 242, CR = 0.004132231404958678, H_in_req = 0.02152, efficiency = 0.19183504, area = 8.67 GEs 
-n = 243, k = 1, d = 243, CR = 0.00411522633744856, H_in_req = 0.021432, efficiency = 0.19182879, area = 8.67 GEs 
-n = 244, k = 1, d = 244, CR = 0.004098360655737705, H_in_req = 0.021344, efficiency = 0.19182312, area = 8.67 GEs 
-n = 245, k = 1, d = 245, CR = 0.004081632653061225, H_in_req = 0.021258, efficiency = 0.19181688, area = 8.67 GEs 
-n = 246, k = 1, d = 246, CR = 0.0040650406504065045, H_in_req = 0.021172, efficiency = 0.19181107, area = 8.67 GEs 
-n = 247, k = 1, d = 247, CR = 0.004048582995951417, H_in_req = 0.021087, efficiency = 0.19180560, area = 8.67 GEs 
-n = 248, k = 1, d = 248, CR = 0.004032258064516129, H_in_req = 0.021003, efficiency = 0.19179988, area = 8.67 GEs 
-n = 249, k = 1, d = 249, CR = 0.004016064257028112, H_in_req = 0.020919, efficiency = 0.19179382, area = 8.67 GEs 
-n = 250, k = 1, d = 250, CR = 0.004, H_in_req = 0.020836, efficiency = 0.19178843, area = 8.67 GEs 
-n = 251, k = 1, d = 251, CR = 0.00398406374501992, H_in_req = 0.020754, efficiency = 0.19178255, area = 8.67 GEs 
-n = 252, k = 1, d = 252, CR = 0.003968253968253968, H_in_req = 0.020672, efficiency = 0.19177721, area = 8.67 GEs 
-n = 253, k = 1, d = 253, CR = 0.003952569169960474, H_in_req = 0.020591, efficiency = 0.19177178, area = 8.67 GEs 
-n = 254, k = 1, d = 254, CR = 0.003937007874015748, H_in_req = 0.02051, efficiency = 0.19176619, area = 8.67 GEs 
-n = 255, k = 1, d = 255, CR = 0.00392156862745098, H_in_req = 0.02043, efficiency = 0.19176094, area = 8.67 GEs 
-n = 255, k = 13, d = 119, CR = 0.050980392156862744, H_in_req = 0.091562, efficiency = 0.55674825, area = 100.71 GEs 
-n = 255, k = 20, d = 112, CR = 0.0784313725490196, H_in_req = 0.119378, efficiency = 0.65697016, area = 149.40 GEs 
-n = 255, k = 21, d = 111, CR = 0.08235294117647059, H_in_req = 0.123307, efficiency = 0.66783740, area = 154.07 GEs 
-n = 255, k = 25, d = 100, CR = 0.09803921568627451, H_in_req = 0.13909, efficiency = 0.70483442, area = 184.75 GEs 
-n = 255, k = 26, d = 98, CR = 0.10196078431372549, H_in_req = 0.143078, efficiency = 0.71259830, area = 193.42 GEs 
-n = 255, k = 32, d = 96, CR = 0.12549019607843137, H_in_req = 0.166616, efficiency = 0.75314839, area = 253.44 GEs 
-n = 255, k = 33, d = 95, CR = 0.12941176470588237, H_in_req = 0.170539, efficiency = 0.75882033, area = 254.11 GEs 
-n = 256, k = 1, d = 256, CR = 0.00390625, H_in_req = 0.020351, efficiency = 0.19175538, area = 8.67 GEs 
-n = 63, k = 9, d = 28, CR = 0.14285714285714285, H_in_req = 0.293618, efficiency = 0.48648801, area = 68.03 GEs 
-n = 93, k = 33, d = 22, CR = 0.3548387096774194, H_in_req = 0.467607, efficiency = 0.75881812, area = 258.11 GEs 
-n = 145, k = 32, d = 44, CR = 0.2206896551724138, H_in_req = 0.293202, efficiency = 0.75266600, area = 249.44 GEs 
-n = 151, k = 30, d = 48, CR = 0.1986754966887417, H_in_req = 0.268256, efficiency = 0.74059579, area = 228.10 GEs 
-n = 255, k = 12, d = 120, CR = 0.047058823529411764, H_in_req = 0.087618, efficiency = 0.53705195, area = 96.04 GEs 
-n = 7, k = 4, d = 3, CR = 0.5714285714285714, H_in_req = 0.935688, efficiency = 0.61055180, area = 32.68 GEs 
-n = 15, k = 5, d = 7, CR = 0.3333333333333333, H_in_req = 0.697616, efficiency = 0.47772248, area = 39.35 GEs 
-n = 15, k = 7, d = 5, CR = 0.4666666666666667, H_in_req = 0.825993, efficiency = 0.56489611, area = 52.69 GEs 
-n = 15, k = 11, d = 3, CR = 0.7333333333333333, H_in_req = 0.962474, efficiency = 0.76185618, area = 87.37 GEs 
-n = 21, k = 12, d = 5, CR = 0.5714285714285714, H_in_req = 0.861658, efficiency = 0.66311869, area = 94.04 GEs 
-n = 31, k = 6, d = 15, CR = 0.1935483870967742, H_in_req = 0.437159, efficiency = 0.44266803, area = 50.02 GEs 
-n = 31, k = 21, d = 5, CR = 0.6774193548387096, H_in_req = 0.894676, efficiency = 0.75713201, area = 162.07 GEs 
-n = 31, k = 26, d = 3, CR = 0.8387096774193549, H_in_req = 0.977291, efficiency = 0.85816603, area = 203.42 GEs 
-n = 63, k = 7, d = 31, CR = 0.1111111111111111, H_in_req = 0.251173, efficiency = 0.44230604, area = 56.69 GEs 
-n = 63, k = 30, d = 13, CR = 0.47619047619047616, H_in_req = 0.637217, efficiency = 0.74727279, area = 226.10 GEs 
-n = 63, k = 39, d = 9, CR = 0.6190476190476191, H_in_req = 0.774446, efficiency = 0.79932300, area = 298.13 GEs 
-n = 63, k = 51, d = 5, CR = 0.8095238095238095, H_in_req = 0.934269, efficiency = 0.86646201, area = 410.17 GEs 
-n = 63, k = 57, d = 3, CR = 0.9047619047619048, H_in_req = 0.986058, efficiency = 0.91753847, area = 434.88 GEs 
-n = 127, k = 8, d = 63, CR = 0.06299212598425197, H_in_req = 0.138258, efficiency = 0.45555796, area = 59.36 GEs 
-n = 127, k = 15, d = 55, CR = 0.11811023622047244, H_in_req = 0.198059, efficiency = 0.59630080, area = 122.05 GEs 
-n = 127, k = 99, d = 9, CR = 0.7795275590551181, H_in_req = 0.86035, efficiency = 0.90605011, area = 770.33 GEs 
-n = 127, k = 113, d = 5, CR = 0.889763779527559, H_in_req = 0.958669, efficiency = 0.92811603, area = 863.71 GEs 
-n = 127, k = 120, d = 3, CR = 0.9448818897637795, H_in_req = 0.991399, efficiency = 0.95307231, area = 857.76 GEs 
-n = 255, k = 9, d = 127, CR = 0.03529411764705882, H_in_req = 0.07441, efficiency = 0.47427089, area = 70.03 GEs 
-n = 255, k = 223, d = 9, CR = 0.8745098039215686, H_in_req = 0.915432, efficiency = 0.95529401, area = 1733.41 GEs 
-n = 255, k = 239, d = 5, CR = 0.9372549019607843, H_in_req = 0.974238, efficiency = 0.96203542, area = 1727.52 GEs 
-n = 255, k = 247, d = 3, CR = 0.9686274509803922, H_in_req = 0.994692, efficiency = 0.97379295, area = 1715.52 GEs 
-n = 511, k = 502, d = 3, CR = 0.9823874755381604, H_in_req = 0.996733, efficiency = 0.98560644, area = 3419.04 GEs 
-n = 511, k = 493, d = 5, CR = 0.9647749510763209, H_in_req = 0.984138, efficiency = 0.98032322, area = 3431.04 GEs 
-n = 511, k = 484, d = 7, CR = 0.9471624266144814, H_in_req = 0.967529, efficiency = 0.97894867, area = 3443.04 GEs 
-n = 511, k = 31, d = 219, CR = 0.060665362035225046, H_in_req = 0.081199, efficiency = 0.74710104, area = 224.77 GEs 
-n = 511, k = 28, d = 223, CR = 0.0547945205479452, H_in_req = 0.075322, efficiency = 0.72744520, area = 204.76 GEs 
-n = 511, k = 19, d = 239, CR = 0.03718199608610567, H_in_req = 0.057641, efficiency = 0.64503133, area = 152.73 GEs 
-n = 511, k = 10, d = 255, CR = 0.019569471624266144, H_in_req = 0.039545, efficiency = 0.49482760, area = 76.70 GEs 
-n = 89, k = 45, d = 17, CR = 0.5056179775280899, H_in_req = 0.621522, efficiency = 0.81349780, area = 342.15 GEs 
-n = 117, k = 36, d = 32, CR = 0.3076923076923077, H_in_req = 0.397171, efficiency = 0.77468974, area = 272.12 GEs 
-n = 127, k = 43, d = 31, CR = 0.33858267716535434, H_in_req = 0.421081, efficiency = 0.80406222, area = 336.81 GEs 
-n = 127, k = 50, d = 27, CR = 0.3937007874015748, H_in_req = 0.476296, efficiency = 0.82657245, area = 375.50 GEs 
-n = 127, k = 64, d = 21, CR = 0.5039370078740157, H_in_req = 0.586443, efficiency = 0.85929780, area = 484.88 GEs 
-n = 127, k = 71, d = 19, CR = 0.5590551181102362, H_in_req = 0.641644, efficiency = 0.87127388, area = 555.57 GEs 
-n = 255, k = 37, d = 91, CR = 0.1450980392156863, H_in_req = 0.186246, efficiency = 0.77904739, area = 296.79 GEs 
-n = 255, k = 45, d = 87, CR = 0.17647058823529413, H_in_req = 0.217621, efficiency = 0.81089266, area = 346.15 GEs 
-n = 255, k = 47, d = 85, CR = 0.1843137254901961, H_in_req = 0.225465, efficiency = 0.81746634, area = 351.49 GEs 
-n = 127, k = 78, d = 15, CR = 0.6141732283464567, H_in_req = 0.696953, efficiency = 0.88121541, area = 606.26 GEs 
-n = 127, k = 85, d = 13, CR = 0.6692913385826772, H_in_req = 0.751569, efficiency = 0.89051609, area = 660.95 GEs 
-n = 255, k = 207, d = 13, CR = 0.8117647058823529, H_in_req = 0.852909, efficiency = 0.95175628, area = 1586.69 GEs 
-n = 255, k = 215, d = 11, CR = 0.8431372549019608, H_in_req = 0.884301, efficiency = 0.95344628, area = 1656.05 GEs 
-n = 31, k = 16, d = 7, CR = 0.5161290322580645, H_in_req = 0.783172, efficiency = 0.65898296, area = 120.72 GEs 
-n = 63, k = 24, d = 15, CR = 0.38095238095238093, H_in_req = 0.551055, efficiency = 0.69128648, area = 186.08 GEs 
-n = 127, k = 36, d = 31, CR = 0.28346456692913385, H_in_req = 0.366598, efficiency = 0.77320924, area = 282.12 GEs 
-n = 127, k = 57, d = 23, CR = 0.44881889763779526, H_in_req = 0.532525, efficiency = 0.84279907, area = 446.19 GEs 
-n = 255, k = 29, d = 95, CR = 0.11372549019607843, H_in_req = 0.155066, efficiency = 0.73337633, area = 227.43 GEs 
-n = 255, k = 55, d = 63, CR = 0.21568627450980393, H_in_req = 0.256848, efficiency = 0.83972962, area = 420.85 GEs 
-n = 63, k = 45, d = 7, CR = 0.7142857142857143, H_in_req = 0.863586, efficiency = 0.82709757, area = 346.15 GEs 
-n = 127, k = 92, d = 11, CR = 0.7244094488188977, H_in_req = 0.806376, efficiency = 0.89834300, area = 707.64 GEs 
-n = 167, k = 84, d = 23, CR = 0.5029940119760479, H_in_req = 0.566, efficiency = 0.88867144, area = 670.28 GEs 
-n = 73, k = 37, d = 13, CR = 0.5068493150684932, H_in_req = 0.647492, efficiency = 0.78276804, area = 288.79 GEs 
-n = 97, k = 49, d = 15, CR = 0.5051546391752577, H_in_req = 0.617123, efficiency = 0.81854771, area = 368.83 GEs 
-n = 137, k = 69, d = 21, CR = 0.5036496350364964, H_in_req = 0.580452, efficiency = 0.86767272, area = 526.23 GEs 
-n = 151, k = 76, d = 19, CR = 0.5033112582781457, H_in_req = 0.573167, efficiency = 0.87811282, area = 584.92 GEs 
-n = 113, k = 57, d = 15, CR = 0.504424778761062, H_in_req = 0.605719, efficiency = 0.83275685, area = 430.19 GEs 
-n = 71, k = 36, d = 11, CR = 0.5070422535211268, H_in_req = 0.665003, efficiency = 0.76244514, area = 270.12 GEs 
-n = 127, k = 106, d = 7, CR = 0.8346456692913385, H_in_req = 0.912262, efficiency = 0.91491082, area = 801.02 GEs 
-n = 255, k = 231, d = 7, CR = 0.9058823529411765, H_in_req = 0.946021, efficiency = 0.95756698, area = 1735.52 GEs 
-n = 255, k = 63, d = 63, CR = 0.24705882352941178, H_in_req = 0.288213, efficiency = 0.85719764, area = 474.21 GEs 
+n = 2, k = 1, d = 2, CR = 0.50000000, H_in_req = 0.96250223, efficiency = 0.51895984, area = 8.67 GEs, construction = check poly. 
+n = 3, k = 1, d = 3, CR = 0.33333333, H_in_req = 0.87764578, efficiency = 0.37942415, area = 8.67 GEs, construction = check poly. 
+n = 3, k = 2, d = 2, CR = 0.66666667, H_in_req = 0.97823189, efficiency = 0.68116093, area = 17.34 GEs, construction = check poly. 
+n = 4, k = 1, d = 4, CR = 0.25000000, H_in_req = 0.78305253, efficiency = 0.31894412, area = 8.67 GEs, construction = check poly. 
+n = 4, k = 3, d = 2, CR = 0.75000000, H_in_req = 0.98457385, efficiency = 0.76149697, area = 26.01 GEs, construction = check poly. 
+n = 5, k = 1, d = 5, CR = 0.20000000, H_in_req = 0.69730005, efficiency = 0.28653375, area = 8.67 GEs, construction = check poly. 
+n = 5, k = 4, d = 2, CR = 0.80000000, H_in_req = 0.98803669, efficiency = 0.80948411, area = 34.68 GEs, construction = check poly. 
+n = 6, k = 1, d = 6, CR = 0.16666667, H_in_req = 0.62425877, efficiency = 0.26671632, area = 8.67 GEs, construction = check poly. 
+n = 6, k = 5, d = 2, CR = 0.83333333, H_in_req = 0.99022461, efficiency = 0.84139160, area = 43.35 GEs, construction = check poly. 
+n = 7, k = 1, d = 7, CR = 0.14285714, H_in_req = 0.56302646, efficiency = 0.25347705, area = 8.67 GEs, construction = check poly. 
+n = 7, k = 4, d = 3, CR = 0.57142857, H_in_req = 0.93568719, efficiency = 0.61055203, area = 32.68 GEs, construction = check poly. 
+n = 7, k = 6, d = 2, CR = 0.85714286, H_in_req = 0.99173402, efficiency = 0.86414299, area = 52.02 GEs, construction = check poly. 
+n = 8, k = 1, d = 8, CR = 0.12500000, H_in_req = 0.51166005, efficiency = 0.24405853, area = 8.67 GEs, construction = check poly. 
+n = 8, k = 7, d = 2, CR = 0.87500000, H_in_req = 0.99283873, efficiency = 0.88118541, area = 60.69 GEs, construction = check poly. 
+n = 9, k = 1, d = 9, CR = 0.11111111, H_in_req = 0.46827840, efficiency = 0.23703848, area = 8.67 GEs, construction = check poly. 
+n = 9, k = 8, d = 2, CR = 0.88888889, H_in_req = 0.99368251, efficiency = 0.89442832, area = 68.70 GEs, construction = generator poly. 
+n = 10, k = 1, d = 10, CR = 0.10000000, H_in_req = 0.43131903, efficiency = 0.23161510, area = 8.67 GEs, construction = check poly. 
+n = 10, k = 9, d = 2, CR = 0.90000000, H_in_req = 0.99434817, efficiency = 0.90501500, area = 75.37 GEs, construction = generator poly. 
+n = 11, k = 1, d = 11, CR = 0.09090909, H_in_req = 0.39954246, efficiency = 0.22730546, area = 8.67 GEs, construction = check poly. 
+n = 11, k = 10, d = 2, CR = 0.90909091, H_in_req = 0.99488678, efficiency = 0.91367181, area = 82.04 GEs, construction = generator poly. 
+n = 12, k = 1, d = 12, CR = 0.08333333, H_in_req = 0.37198121, efficiency = 0.22380163, area = 8.67 GEs, construction = check poly. 
+n = 12, k = 11, d = 2, CR = 0.91666667, H_in_req = 0.99533158, efficiency = 0.92088240, area = 88.71 GEs, construction = generator poly. 
+n = 13, k = 1, d = 13, CR = 0.07692308, H_in_req = 0.34787975, efficiency = 0.22089861, area = 8.67 GEs, construction = check poly. 
+n = 13, k = 12, d = 2, CR = 0.92307692, H_in_req = 0.99570514, efficiency = 0.92698126, area = 95.38 GEs, construction = generator poly. 
+n = 14, k = 1, d = 14, CR = 0.07142857, H_in_req = 0.32664409, efficiency = 0.21845534, area = 8.67 GEs, construction = check poly. 
+n = 14, k = 13, d = 2, CR = 0.92857143, H_in_req = 0.99602329, efficiency = 0.93220712, area = 102.05 GEs, construction = generator poly. 
+n = 15, k = 1, d = 15, CR = 0.06666667, H_in_req = 0.30780380, efficiency = 0.21637160, area = 8.67 GEs, construction = check poly. 
+n = 15, k = 5, d = 7, CR = 0.33333333, H_in_req = 0.69761517, efficiency = 0.47772280, area = 39.35 GEs, construction = check poly. 
+n = 15, k = 7, d = 5, CR = 0.46666667, H_in_req = 0.82910848, efficiency = 0.56277317, area = 52.69 GEs, construction = check poly. 
+n = 15, k = 11, d = 3, CR = 0.73333333, H_in_req = 0.96247389, efficiency = 0.76185617, area = 87.37 GEs, construction = check poly. 
+n = 15, k = 14, d = 2, CR = 0.93333333, H_in_req = 0.99629754, efficiency = 0.93673490, area = 108.72 GEs, construction = generator poly. 
+n = 16, k = 1, d = 16, CR = 0.06250000, H_in_req = 0.29098399, efficiency = 0.21457366, area = 8.67 GEs, construction = check poly. 
+n = 16, k = 15, d = 2, CR = 0.93750000, H_in_req = 0.99653639, efficiency = 0.94069571, area = 115.39 GEs, construction = generator poly. 
+n = 17, k = 1, d = 17, CR = 0.05882353, H_in_req = 0.27588170, efficiency = 0.21300690, area = 8.67 GEs, construction = check poly. 
+n = 17, k = 8, d = 6, CR = 0.47058824, H_in_req = 0.80264142, efficiency = 0.58622618, area = 61.36 GEs, construction = check poly. 
+n = 17, k = 9, d = 5, CR = 0.52941176, H_in_req = 0.84904035, efficiency = 0.62347207, area = 70.03 GEs, construction = check poly. 
+n = 17, k = 16, d = 2, CR = 0.94117647, H_in_req = 0.99674627, efficiency = 0.94418979, area = 122.06 GEs, construction = generator poly. 
+n = 18, k = 1, d = 18, CR = 0.05555556, H_in_req = 0.26225041, efficiency = 0.21162979, area = 8.67 GEs, construction = check poly. 
+n = 18, k = 17, d = 2, CR = 0.94444444, H_in_req = 0.99693215, efficiency = 0.94729505, area = 128.73 GEs, construction = generator poly. 
+n = 19, k = 1, d = 19, CR = 0.05263158, H_in_req = 0.24988815, efficiency = 0.21040993, area = 8.67 GEs, construction = check poly. 
+n = 19, k = 18, d = 2, CR = 0.94736842, H_in_req = 0.99709794, efficiency = 0.95007296, area = 135.40 GEs, construction = generator poly. 
+n = 20, k = 1, d = 20, CR = 0.05000000, H_in_req = 0.23862771, efficiency = 0.20932189, area = 8.67 GEs, construction = check poly. 
+n = 20, k = 19, d = 2, CR = 0.95000000, H_in_req = 0.99724673, efficiency = 0.95257269, area = 142.07 GEs, construction = generator poly. 
+n = 21, k = 1, d = 21, CR = 0.04761905, H_in_req = 0.22832951, efficiency = 0.20834552, area = 8.67 GEs, construction = check poly. 
+n = 21, k = 12, d = 5, CR = 0.57142857, H_in_req = 0.85009072, efficiency = 0.67214115, area = 94.04 GEs, construction = check poly. 
+n = 21, k = 20, d = 2, CR = 0.95238095, H_in_req = 0.99738099, efficiency = 0.95483406, area = 148.74 GEs, construction = generator poly. 
+n = 22, k = 1, d = 22, CR = 0.04545455, H_in_req = 0.21887638, efficiency = 0.20746456, area = 8.67 GEs, construction = check poly. 
+n = 22, k = 21, d = 2, CR = 0.95454545, H_in_req = 0.99750277, efficiency = 0.95688957, area = 155.41 GEs, construction = generator poly. 
+n = 23, k = 1, d = 23, CR = 0.04347826, H_in_req = 0.21016923, efficiency = 0.20666576, area = 8.67 GEs, construction = check poly. 
+n = 23, k = 11, d = 8, CR = 0.47826087, H_in_req = 0.75523214, efficiency = 0.63320583, area = 85.37 GEs, construction = check poly. 
+n = 23, k = 12, d = 7, CR = 0.52173913, H_in_req = 0.79289723, efficiency = 0.65796125, area = 94.04 GEs, construction = check poly. 
+n = 23, k = 22, d = 2, CR = 0.95652174, H_in_req = 0.99761372, efficiency = 0.95876615, area = 162.08 GEs, construction = generator poly. 
+n = 24, k = 1, d = 24, CR = 0.04166667, H_in_req = 0.20212398, efficiency = 0.20593797, area = 8.67 GEs, construction = check poly. 
+n = 24, k = 23, d = 2, CR = 0.95833333, H_in_req = 0.99771524, efficiency = 0.96048615, area = 168.75 GEs, construction = generator poly. 
+n = 25, k = 1, d = 25, CR = 0.04000000, H_in_req = 0.19466822, efficiency = 0.20527234, area = 8.67 GEs, construction = check poly. 
+n = 25, k = 24, d = 2, CR = 0.96000000, H_in_req = 0.99780846, efficiency = 0.96206841, area = 175.42 GEs, construction = generator poly. 
+n = 26, k = 1, d = 26, CR = 0.03846154, H_in_req = 0.18773980, efficiency = 0.20466134, area = 8.67 GEs, construction = check poly. 
+n = 26, k = 25, d = 2, CR = 0.96153846, H_in_req = 0.99789437, efficiency = 0.96352884, area = 182.09 GEs, construction = generator poly. 
+n = 27, k = 1, d = 27, CR = 0.03703704, H_in_req = 0.18128512, efficiency = 0.20409839, area = 8.67 GEs, construction = check poly. 
+n = 27, k = 26, d = 2, CR = 0.96296296, H_in_req = 0.99797381, efficiency = 0.96488097, area = 188.76 GEs, construction = generator poly. 
+n = 28, k = 1, d = 28, CR = 0.03571429, H_in_req = 0.17525749, efficiency = 0.20357802, area = 8.67 GEs, construction = check poly. 
+n = 28, k = 27, d = 2, CR = 0.96428571, H_in_req = 0.99804746, efficiency = 0.96613642, area = 195.43 GEs, construction = generator poly. 
+n = 29, k = 1, d = 29, CR = 0.03448276, H_in_req = 0.16961608, efficiency = 0.20309559, area = 8.67 GEs, construction = check poly. 
+n = 29, k = 28, d = 2, CR = 0.96551724, H_in_req = 0.99811595, efficiency = 0.96730521, area = 202.10 GEs, construction = generator poly. 
+n = 30, k = 1, d = 30, CR = 0.03333333, H_in_req = 0.16432502, efficiency = 0.20264717, area = 8.67 GEs, construction = check poly. 
+n = 30, k = 29, d = 2, CR = 0.96666667, H_in_req = 0.99817979, efficiency = 0.96839602, area = 208.77 GEs, construction = generator poly. 
+n = 31, k = 1, d = 31, CR = 0.03225806, H_in_req = 0.15935277, efficiency = 0.20222935, area = 8.67 GEs, construction = check poly. 
+n = 31, k = 6, d = 15, CR = 0.19354839, H_in_req = 0.43715825, efficiency = 0.44266837, area = 50.02 GEs, construction = check poly. 
+n = 31, k = 10, d = 12, CR = 0.32258065, H_in_req = 0.58040504, efficiency = 0.55572982, area = 74.70 GEs, construction = check poly. 
+n = 31, k = 11, d = 11, CR = 0.35483871, H_in_req = 0.61209229, efficiency = 0.57966169, area = 83.37 GEs, construction = check poly. 
+n = 31, k = 21, d = 5, CR = 0.67741935, H_in_req = 0.89384775, efficiency = 0.75783275, area = 162.07 GEs, construction = check poly. 
+n = 31, k = 26, d = 3, CR = 0.83870968, H_in_req = 0.97729042, efficiency = 0.85816601, area = 203.42 GEs, construction = check poly. 
+n = 31, k = 30, d = 2, CR = 0.96774194, H_in_req = 0.99823946, efficiency = 0.96941638, area = 215.44 GEs, construction = generator poly. 
+n = 32, k = 1, d = 32, CR = 0.03125000, H_in_req = 0.15467158, efficiency = 0.20183896, area = 8.67 GEs, construction = check poly. 
+n = 32, k = 31, d = 2, CR = 0.96875000, H_in_req = 0.99829533, efficiency = 0.97037292, area = 222.11 GEs, construction = generator poly. 
+n = 33, k = 1, d = 33, CR = 0.03030303, H_in_req = 0.15025667, efficiency = 0.20147344, area = 8.67 GEs, construction = check poly. 
+n = 33, k = 32, d = 2, CR = 0.96969697, H_in_req = 0.99834776, efficiency = 0.97127144, area = 228.78 GEs, construction = generator poly. 
+n = 34, k = 1, d = 34, CR = 0.02941176, H_in_req = 0.14608614, efficiency = 0.20113034, area = 8.67 GEs, construction = check poly. 
+n = 34, k = 33, d = 2, CR = 0.97058824, H_in_req = 0.99839707, efficiency = 0.97211707, area = 235.45 GEs, construction = generator poly. 
+n = 35, k = 1, d = 35, CR = 0.02857143, H_in_req = 0.14213997, efficiency = 0.20080811, area = 8.67 GEs, construction = check poly. 
+n = 35, k = 34, d = 2, CR = 0.97142857, H_in_req = 0.99844351, efficiency = 0.97291433, area = 242.12 GEs, construction = generator poly. 
+n = 36, k = 1, d = 36, CR = 0.02777778, H_in_req = 0.13840102, efficiency = 0.20050431, area = 8.67 GEs, construction = check poly. 
+n = 36, k = 35, d = 2, CR = 0.97222222, H_in_req = 0.99848734, efficiency = 0.97366727, area = 248.79 GEs, construction = generator poly. 
+n = 37, k = 1, d = 37, CR = 0.02702703, H_in_req = 0.13485309, efficiency = 0.20021790, area = 8.67 GEs, construction = check poly. 
+n = 37, k = 36, d = 2, CR = 0.97297297, H_in_req = 0.99852877, efficiency = 0.97437948, area = 255.46 GEs, construction = generator poly. 
+n = 38, k = 1, d = 38, CR = 0.02631579, H_in_req = 0.13148200, efficiency = 0.19994732, area = 8.67 GEs, construction = check poly. 
+n = 38, k = 37, d = 2, CR = 0.97368421, H_in_req = 0.99856800, efficiency = 0.97505418, area = 262.13 GEs, construction = generator poly. 
+n = 39, k = 1, d = 39, CR = 0.02564103, H_in_req = 0.12827503, efficiency = 0.19969114, area = 8.67 GEs, construction = check poly. 
+n = 39, k = 38, d = 2, CR = 0.97435897, H_in_req = 0.99860518, efficiency = 0.97569426, area = 268.80 GEs, construction = generator poly. 
+n = 40, k = 1, d = 40, CR = 0.02500000, H_in_req = 0.12522037, efficiency = 0.19944839, area = 8.67 GEs, construction = check poly. 
+n = 40, k = 39, d = 2, CR = 0.97500000, H_in_req = 0.99864048, efficiency = 0.97630231, area = 275.47 GEs, construction = generator poly. 
+n = 41, k = 1, d = 41, CR = 0.02439024, H_in_req = 0.12230766, efficiency = 0.19921773, area = 8.67 GEs, construction = check poly. 
+n = 41, k = 20, d = 10, CR = 0.48780488, H_in_req = 0.70347916, efficiency = 0.69338300, area = 157.40 GEs, construction = check poly. 
+n = 41, k = 21, d = 9, CR = 0.51219512, H_in_req = 0.72691061, efficiency = 0.70458558, area = 166.07 GEs, construction = check poly. 
+n = 41, k = 40, d = 2, CR = 0.97560976, H_in_req = 0.99867404, efficiency = 0.97688068, area = 282.14 GEs, construction = generator poly. 
+n = 42, k = 1, d = 42, CR = 0.02380952, H_in_req = 0.11952691, efficiency = 0.19899883, area = 8.67 GEs, construction = check poly. 
+n = 42, k = 41, d = 2, CR = 0.97619048, H_in_req = 0.99870598, efficiency = 0.97743149, area = 288.81 GEs, construction = generator poly. 
+n = 43, k = 1, d = 43, CR = 0.02325581, H_in_req = 0.11686965, efficiency = 0.19879035, area = 8.67 GEs, construction = check poly. 
+n = 43, k = 14, d = 14, CR = 0.32558140, H_in_req = 0.53743806, efficiency = 0.60575938, area = 113.38 GEs, construction = check poly. 
+n = 43, k = 15, d = 13, CR = 0.34883721, H_in_req = 0.56548448, efficiency = 0.61684090, area = 110.05 GEs, construction = check poly. 
+n = 43, k = 42, d = 2, CR = 0.97674419, H_in_req = 0.99873642, efficiency = 0.97795666, area = 295.48 GEs, construction = generator poly. 
+n = 44, k = 1, d = 44, CR = 0.02272727, H_in_req = 0.11432767, efficiency = 0.19859187, area = 8.67 GEs, construction = check poly. 
+n = 44, k = 43, d = 2, CR = 0.97727273, H_in_req = 0.99876546, efficiency = 0.97845795, area = 302.15 GEs, construction = generator poly. 
+n = 45, k = 1, d = 45, CR = 0.02222222, H_in_req = 0.11189383, efficiency = 0.19840237, area = 8.67 GEs, construction = check poly. 
+n = 45, k = 44, d = 2, CR = 0.97777778, H_in_req = 0.99879320, efficiency = 0.97893694, area = 308.82 GEs, construction = generator poly. 
+n = 46, k = 1, d = 46, CR = 0.02173913, H_in_req = 0.10956121, efficiency = 0.19822154, area = 8.67 GEs, construction = check poly. 
+n = 46, k = 45, d = 2, CR = 0.97826087, H_in_req = 0.99881971, efficiency = 0.97939511, area = 315.49 GEs, construction = generator poly. 
+n = 47, k = 1, d = 47, CR = 0.02127660, H_in_req = 0.10732375, efficiency = 0.19804862, area = 8.67 GEs, construction = check poly. 
+n = 47, k = 23, d = 12, CR = 0.48936170, H_in_req = 0.68300734, efficiency = 0.71644974, area = 181.41 GEs, construction = check poly. 
+n = 47, k = 24, d = 11, CR = 0.51063830, H_in_req = 0.70365661, efficiency = 0.72566223, area = 182.08 GEs, construction = check poly. 
+n = 47, k = 46, d = 2, CR = 0.97872340, H_in_req = 0.99884508, efficiency = 0.97983376, area = 322.16 GEs, construction = generator poly. 
+n = 48, k = 1, d = 48, CR = 0.02083333, H_in_req = 0.10517572, efficiency = 0.19788313, area = 8.67 GEs, construction = check poly. 
+n = 48, k = 47, d = 2, CR = 0.97916667, H_in_req = 0.99886939, efficiency = 0.98025412, area = 328.83 GEs, construction = generator poly. 
+n = 49, k = 1, d = 49, CR = 0.02040816, H_in_req = 0.10311189, efficiency = 0.19772459, area = 8.67 GEs, construction = check poly. 
+n = 49, k = 48, d = 2, CR = 0.97959184, H_in_req = 0.99889270, efficiency = 0.98065732, area = 335.50 GEs, construction = generator poly. 
+n = 50, k = 1, d = 50, CR = 0.02000000, H_in_req = 0.10112725, efficiency = 0.19757287, area = 8.67 GEs, construction = check poly. 
+n = 50, k = 49, d = 2, CR = 0.98000000, H_in_req = 0.99891506, efficiency = 0.98104438, area = 342.17 GEs, construction = generator poly. 
+n = 51, k = 1, d = 51, CR = 0.01960784, H_in_req = 0.09921752, efficiency = 0.19742718, area = 8.67 GEs, construction = check poly. 
+n = 51, k = 8, d = 24, CR = 0.15686275, H_in_req = 0.32946867, efficiency = 0.47604873, area = 61.36 GEs, construction = check poly. 
+n = 51, k = 17, d = 16, CR = 0.33333333, H_in_req = 0.52156001, efficiency = 0.63907071, area = 127.39 GEs, construction = check poly. 
+n = 51, k = 19, d = 14, CR = 0.37254902, H_in_req = 0.56846483, efficiency = 0.65532535, area = 148.73 GEs, construction = check poly. 
+n = 51, k = 50, d = 2, CR = 0.98039216, H_in_req = 0.99893654, efficiency = 0.98141625, area = 348.84 GEs, construction = generator poly. 
+n = 52, k = 1, d = 52, CR = 0.01923077, H_in_req = 0.09737853, efficiency = 0.19728721, area = 8.67 GEs, construction = check poly. 
+n = 52, k = 51, d = 2, CR = 0.98076923, H_in_req = 0.99895718, efficiency = 0.98177381, area = 355.51 GEs, construction = generator poly. 
+n = 53, k = 1, d = 53, CR = 0.01886792, H_in_req = 0.09560636, efficiency = 0.19715277, area = 8.67 GEs, construction = check poly. 
+n = 53, k = 52, d = 2, CR = 0.98113208, H_in_req = 0.99897704, efficiency = 0.98211788, area = 362.18 GEs, construction = generator poly. 
+n = 54, k = 1, d = 54, CR = 0.01851852, H_in_req = 0.09389753, efficiency = 0.19702330, area = 8.67 GEs, construction = check poly. 
+n = 54, k = 53, d = 2, CR = 0.98148148, H_in_req = 0.99899616, efficiency = 0.98244919, area = 368.85 GEs, construction = generator poly. 
+n = 55, k = 1, d = 55, CR = 0.01818182, H_in_req = 0.09224861, efficiency = 0.19689877, area = 8.67 GEs, construction = check poly. 
+n = 55, k = 20, d = 16, CR = 0.36363636, H_in_req = 0.54330681, efficiency = 0.66926859, area = 157.40 GEs, construction = check poly. 
+n = 55, k = 21, d = 15, CR = 0.38181818, H_in_req = 0.56018807, efficiency = 0.68155682, area = 166.07 GEs, construction = check poly. 
+n = 56, k = 1, d = 56, CR = 0.01785714, H_in_req = 0.09065649, efficiency = 0.19677892, area = 8.67 GEs, construction = check poly. 
+n = 57, k = 1, d = 57, CR = 0.01754386, H_in_req = 0.08911833, efficiency = 0.19666344, area = 8.67 GEs, construction = check poly. 
+n = 58, k = 1, d = 58, CR = 0.01724138, H_in_req = 0.08763149, efficiency = 0.19655194, area = 8.67 GEs, construction = check poly. 
+n = 59, k = 1, d = 59, CR = 0.01694915, H_in_req = 0.08619336, efficiency = 0.19644443, area = 8.67 GEs, construction = check poly. 
+n = 60, k = 1, d = 60, CR = 0.01666667, H_in_req = 0.08480167, efficiency = 0.19634049, area = 8.67 GEs, construction = check poly. 
+n = 61, k = 1, d = 61, CR = 0.01639344, H_in_req = 0.08345417, efficiency = 0.19624006, area = 8.67 GEs, construction = check poly. 
+n = 62, k = 1, d = 62, CR = 0.01612903, H_in_req = 0.08214870, efficiency = 0.19614314, area = 8.67 GEs, construction = check poly. 
+n = 63, k = 1, d = 63, CR = 0.01587302, H_in_req = 0.08088349, efficiency = 0.19604921, area = 8.67 GEs, construction = check poly. 
+n = 63, k = 7, d = 31, CR = 0.11111111, H_in_req = 0.25117266, efficiency = 0.44230627, area = 56.69 GEs, construction = check poly. 
+n = 63, k = 10, d = 27, CR = 0.15873016, H_in_req = 0.30985715, efficiency = 0.51221761, area = 80.70 GEs, construction = check poly. 
+n = 63, k = 11, d = 26, CR = 0.17460317, H_in_req = 0.32684225, efficiency = 0.53416381, area = 81.37 GEs, construction = check poly. 
+n = 63, k = 15, d = 24, CR = 0.23809524, H_in_req = 0.39210933, efficiency = 0.60717598, area = 116.05 GEs, construction = check poly. 
+n = 63, k = 16, d = 23, CR = 0.25396825, H_in_req = 0.40815005, efficiency = 0.62220348, area = 120.72 GEs, construction = check poly. 
+n = 63, k = 17, d = 22, CR = 0.26984127, H_in_req = 0.42495509, efficiency = 0.63495039, area = 133.39 GEs, construction = check poly. 
+n = 63, k = 18, d = 21, CR = 0.28571429, H_in_req = 0.44093841, efficiency = 0.64793270, area = 142.06 GEs, construction = check poly. 
+n = 63, k = 30, d = 13, CR = 0.47619048, H_in_req = 0.63551017, efficiency = 0.74927929, area = 226.10 GEs, construction = check poly. 
+n = 63, k = 35, d = 12, CR = 0.55555556, H_in_req = 0.71052417, efficiency = 0.78187303, area = 269.45 GEs, construction = check poly. 
+n = 63, k = 36, d = 11, CR = 0.57142857, H_in_req = 0.72610580, efficiency = 0.78695515, area = 282.12 GEs, construction = check poly. 
+n = 63, k = 39, d = 9, CR = 0.61904762, H_in_req = 0.77691273, efficiency = 0.79678416, area = 298.13 GEs, construction = check poly. 
+n = 63, k = 45, d = 8, CR = 0.71428571, H_in_req = 0.85613026, efficiency = 0.83430044, area = 356.15 GEs, construction = check poly. 
+n = 63, k = 46, d = 7, CR = 0.73015873, H_in_req = 0.87084181, efficiency = 0.83843340, area = 356.82 GEs, construction = check poly. 
+n = 63, k = 51, d = 5, CR = 0.80952381, H_in_req = 0.93431325, efficiency = 0.86642027, area = 410.17 GEs, construction = check poly. 
+n = 63, k = 57, d = 3, CR = 0.90476190, H_in_req = 0.98605783, efficiency = 0.91753851, area = 434.88 GEs, construction = generator poly. 
+n = 64, k = 1, d = 64, CR = 0.01562500, H_in_req = 0.07965662, efficiency = 0.19595830, area = 8.67 GEs, construction = check poly. 
+n = 65, k = 1, d = 65, CR = 0.01538462, H_in_req = 0.07846632, efficiency = 0.19587044, area = 8.67 GEs, construction = check poly. 
+n = 65, k = 12, d = 26, CR = 0.18461538, H_in_req = 0.33264480, efficiency = 0.55494631, area = 92.04 GEs, construction = check poly. 
+n = 65, k = 13, d = 25, CR = 0.20000000, H_in_req = 0.34797729, efficiency = 0.57470595, area = 96.71 GEs, construction = check poly. 
+n = 65, k = 40, d = 10, CR = 0.61538462, H_in_req = 0.76647639, efficiency = 0.80285479, area = 294.80 GEs, construction = check poly. 
+n = 65, k = 52, d = 6, CR = 0.80000000, H_in_req = 0.92318559, efficiency = 0.86654799, area = 398.84 GEs, construction = check poly. 
+n = 65, k = 53, d = 5, CR = 0.81538462, H_in_req = 0.93632587, efficiency = 0.87081780, area = 403.51 GEs, construction = check poly. 
+n = 66, k = 1, d = 66, CR = 0.01515152, H_in_req = 0.07731114, efficiency = 0.19578504, area = 8.67 GEs, construction = check poly. 
+n = 67, k = 1, d = 67, CR = 0.01492537, H_in_req = 0.07618931, efficiency = 0.19570263, area = 8.67 GEs, construction = check poly. 
+n = 68, k = 1, d = 68, CR = 0.01470588, H_in_req = 0.07509964, efficiency = 0.19562248, area = 8.67 GEs, construction = check poly. 
+n = 69, k = 1, d = 69, CR = 0.01449275, H_in_req = 0.07404069, efficiency = 0.19554467, area = 8.67 GEs, construction = check poly. 
+n = 70, k = 1, d = 70, CR = 0.01428571, H_in_req = 0.07301116, efficiency = 0.19546916, area = 8.67 GEs, construction = check poly. 
+n = 71, k = 1, d = 71, CR = 0.01408451, H_in_req = 0.07200985, efficiency = 0.19539583, area = 8.67 GEs, construction = check poly. 
+n = 72, k = 1, d = 72, CR = 0.01388889, H_in_req = 0.07103557, efficiency = 0.19532469, area = 8.67 GEs, construction = check poly. 
+n = 73, k = 1, d = 73, CR = 0.01369863, H_in_req = 0.07008738, efficiency = 0.19525532, area = 8.67 GEs, construction = check poly. 
+n = 73, k = 27, d = 20, CR = 0.36986301, H_in_req = 0.50968649, efficiency = 0.72564081, area = 216.09 GEs, construction = check poly. 
+n = 74, k = 1, d = 74, CR = 0.01351351, H_in_req = 0.06916407, efficiency = 0.19518807, area = 8.67 GEs, construction = check poly. 
+n = 75, k = 1, d = 75, CR = 0.01333333, H_in_req = 0.06826476, efficiency = 0.19512265, area = 8.67 GEs, construction = check poly. 
+n = 76, k = 1, d = 76, CR = 0.01315789, H_in_req = 0.06738856, efficiency = 0.19505890, area = 8.67 GEs, construction = check poly. 
+n = 77, k = 1, d = 77, CR = 0.01298701, H_in_req = 0.06653456, efficiency = 0.19499681, area = 8.67 GEs, construction = check poly. 
+n = 78, k = 1, d = 78, CR = 0.01282051, H_in_req = 0.06570188, efficiency = 0.19493647, area = 8.67 GEs, construction = check poly. 
+n = 79, k = 1, d = 79, CR = 0.01265823, H_in_req = 0.06488981, efficiency = 0.19487761, area = 8.67 GEs, construction = check poly. 
+n = 79, k = 40, d = 15, CR = 0.50632911, H_in_req = 0.63673858, efficiency = 0.79517164, area = 304.80 GEs, construction = check poly. 
+n = 80, k = 1, d = 80, CR = 0.01250000, H_in_req = 0.06409750, efficiency = 0.19482040, area = 8.67 GEs, construction = check poly. 
+n = 81, k = 1, d = 81, CR = 0.01234568, H_in_req = 0.06332437, efficiency = 0.19476443, area = 8.67 GEs, construction = check poly. 
+n = 82, k = 1, d = 82, CR = 0.01219512, H_in_req = 0.06256958, efficiency = 0.19471009, area = 8.67 GEs, construction = check poly. 
+n = 83, k = 1, d = 83, CR = 0.01204819, H_in_req = 0.06183265, efficiency = 0.19465681, area = 8.67 GEs, construction = check poly. 
+n = 84, k = 1, d = 84, CR = 0.01190476, H_in_req = 0.06111275, efficiency = 0.19460520, area = 8.67 GEs, construction = check poly. 
+n = 85, k = 1, d = 85, CR = 0.01176471, H_in_req = 0.06040952, efficiency = 0.19455447, area = 8.67 GEs, construction = check poly. 
+n = 86, k = 1, d = 86, CR = 0.01162791, H_in_req = 0.05972225, efficiency = 0.19450506, area = 8.67 GEs, construction = check poly. 
+n = 87, k = 1, d = 87, CR = 0.01149425, H_in_req = 0.05905046, efficiency = 0.19445672, area = 8.67 GEs, construction = check poly. 
+n = 87, k = 31, d = 22, CR = 0.35632184, H_in_req = 0.48739581, efficiency = 0.73104927, area = 244.77 GEs, construction = check poly. 
+n = 88, k = 1, d = 88, CR = 0.01136364, H_in_req = 0.05839356, efficiency = 0.19440968, area = 8.67 GEs, construction = check poly. 
+n = 89, k = 1, d = 89, CR = 0.01123596, H_in_req = 0.05775113, efficiency = 0.19436364, area = 8.67 GEs, construction = check poly. 
+n = 89, k = 11, d = 40, CR = 0.12359551, H_in_req = 0.23372751, efficiency = 0.52875365, area = 89.37 GEs, construction = check poly. 
+n = 89, k = 23, d = 28, CR = 0.25842697, H_in_req = 0.37439016, efficiency = 0.69023111, area = 179.41 GEs, construction = check poly. 
+n = 89, k = 45, d = 17, CR = 0.50561798, H_in_req = 0.62152184, efficiency = 0.81349795, area = 342.15 GEs, construction = check poly. 
+n = 89, k = 55, d = 12, CR = 0.61797753, H_in_req = 0.73408805, efficiency = 0.84181495, area = 422.85 GEs, construction = check poly. 
+n = 89, k = 56, d = 11, CR = 0.62921348, H_in_req = 0.74533385, efficiency = 0.84418849, area = 435.52 GEs, construction = check poly. 
+n = 90, k = 1, d = 90, CR = 0.01111111, H_in_req = 0.05712263, efficiency = 0.19431879, area = 8.67 GEs, construction = check poly. 
+n = 91, k = 1, d = 91, CR = 0.01098901, H_in_req = 0.05650777, efficiency = 0.19427457, area = 8.67 GEs, construction = check poly. 
+n = 92, k = 1, d = 92, CR = 0.01086957, H_in_req = 0.05590589, efficiency = 0.19423171, area = 8.67 GEs, construction = check poly. 
+n = 93, k = 1, d = 93, CR = 0.01075269, H_in_req = 0.05531675, efficiency = 0.19418957, area = 8.67 GEs, construction = check poly. 
+n = 93, k = 23, d = 29, CR = 0.24731183, H_in_req = 0.35854177, efficiency = 0.68974133, area = 179.41 GEs, construction = check poly. 
+n = 94, k = 1, d = 94, CR = 0.01063830, H_in_req = 0.05473988, efficiency = 0.19414841, area = 8.67 GEs, construction = check poly. 
+n = 95, k = 1, d = 95, CR = 0.01052632, H_in_req = 0.05417492, efficiency = 0.19410811, area = 8.67 GEs, construction = check poly. 
+n = 96, k = 1, d = 96, CR = 0.01041667, H_in_req = 0.05362150, efficiency = 0.19406861, area = 8.67 GEs, construction = check poly. 
+n = 97, k = 1, d = 97, CR = 0.01030928, H_in_req = 0.05307923, efficiency = 0.19403014, area = 8.67 GEs, construction = check poly. 
+n = 98, k = 1, d = 98, CR = 0.01020408, H_in_req = 0.05254785, efficiency = 0.19399231, area = 8.67 GEs, construction = check poly. 
+n = 99, k = 1, d = 99, CR = 0.01010101, H_in_req = 0.05202701, efficiency = 0.19395523, area = 8.67 GEs, construction = check poly. 
+n = 100, k = 1, d = 100, CR = 0.01000000, H_in_req = 0.05151635, efficiency = 0.19391904, area = 8.67 GEs, construction = check poly. 
+n = 101, k = 1, d = 101, CR = 0.00990099, H_in_req = 0.05101563, efficiency = 0.19388351, area = 8.67 GEs, construction = check poly. 
+n = 102, k = 1, d = 102, CR = 0.00980392, H_in_req = 0.05052457, efficiency = 0.19384864, area = 8.67 GEs, construction = check poly. 
+n = 103, k = 1, d = 103, CR = 0.00970874, H_in_req = 0.05004285, efficiency = 0.19381451, area = 8.67 GEs, construction = check poly. 
+n = 103, k = 52, d = 19, CR = 0.50485437, H_in_req = 0.60616399, efficiency = 0.83285163, area = 392.84 GEs, construction = check poly. 
+n = 104, k = 1, d = 104, CR = 0.00961538, H_in_req = 0.04957018, efficiency = 0.19378123, area = 8.67 GEs, construction = check poly. 
+n = 105, k = 1, d = 105, CR = 0.00952381, H_in_req = 0.04910644, efficiency = 0.19374824, area = 8.67 GEs, construction = check poly. 
+n = 106, k = 1, d = 106, CR = 0.00943396, H_in_req = 0.04865122, efficiency = 0.19371619, area = 8.67 GEs, construction = check poly. 
+n = 107, k = 1, d = 107, CR = 0.00934579, H_in_req = 0.04820439, efficiency = 0.19368461, area = 8.67 GEs, construction = check poly. 
+n = 108, k = 1, d = 108, CR = 0.00925926, H_in_req = 0.04776573, efficiency = 0.19365352, area = 8.67 GEs, construction = check poly. 
+n = 109, k = 1, d = 109, CR = 0.00917431, H_in_req = 0.04733492, efficiency = 0.19362321, area = 8.67 GEs, construction = check poly. 
+n = 110, k = 1, d = 110, CR = 0.00909091, H_in_req = 0.04691185, efficiency = 0.19359328, area = 8.67 GEs, construction = check poly. 
+n = 111, k = 1, d = 111, CR = 0.00900901, H_in_req = 0.04649623, efficiency = 0.19356412, area = 8.67 GEs, construction = check poly. 
+n = 112, k = 1, d = 112, CR = 0.00892857, H_in_req = 0.04608799, efficiency = 0.19353512, area = 8.67 GEs, construction = check poly. 
+n = 113, k = 1, d = 113, CR = 0.00884956, H_in_req = 0.04568677, efficiency = 0.19350698, area = 8.67 GEs, construction = check poly. 
+n = 114, k = 1, d = 114, CR = 0.00877193, H_in_req = 0.04529252, efficiency = 0.19347915, area = 8.67 GEs, construction = check poly. 
+n = 115, k = 1, d = 115, CR = 0.00869565, H_in_req = 0.04490500, efficiency = 0.19345188, area = 8.67 GEs, construction = check poly. 
+n = 116, k = 1, d = 116, CR = 0.00862069, H_in_req = 0.04452403, efficiency = 0.19342519, area = 8.67 GEs, construction = check poly. 
+n = 117, k = 1, d = 117, CR = 0.00854701, H_in_req = 0.04414950, efficiency = 0.19339887, area = 8.67 GEs, construction = check poly. 
+n = 117, k = 36, d = 32, CR = 0.30769231, H_in_req = 0.39717019, efficiency = 0.77468998, area = 272.12 GEs, construction = check poly. 
+n = 118, k = 1, d = 118, CR = 0.00847458, H_in_req = 0.04378121, efficiency = 0.19337297, area = 8.67 GEs, construction = check poly. 
+n = 119, k = 1, d = 119, CR = 0.00840336, H_in_req = 0.04341900, efficiency = 0.19334760, area = 8.67 GEs, construction = check poly. 
+n = 120, k = 1, d = 120, CR = 0.00833333, H_in_req = 0.04306274, efficiency = 0.19332260, area = 8.67 GEs, construction = check poly. 
+n = 121, k = 1, d = 121, CR = 0.00826446, H_in_req = 0.04271226, efficiency = 0.19329812, area = 8.67 GEs, construction = check poly. 
+n = 122, k = 1, d = 122, CR = 0.00819672, H_in_req = 0.04236749, efficiency = 0.19327379, area = 8.67 GEs, construction = check poly. 
+n = 123, k = 1, d = 123, CR = 0.00813008, H_in_req = 0.04202820, efficiency = 0.19325004, area = 8.67 GEs, construction = check poly. 
+n = 124, k = 1, d = 124, CR = 0.00806452, H_in_req = 0.04169428, efficiency = 0.19322683, area = 8.67 GEs, construction = check poly. 
+n = 125, k = 1, d = 125, CR = 0.00800000, H_in_req = 0.04136565, efficiency = 0.19320382, area = 8.67 GEs, construction = check poly. 
+n = 126, k = 1, d = 126, CR = 0.00793651, H_in_req = 0.04104214, efficiency = 0.19318127, area = 8.67 GEs, construction = check poly. 
+n = 127, k = 1, d = 127, CR = 0.00787402, H_in_req = 0.04072369, efficiency = 0.19315888, area = 8.67 GEs, construction = check poly. 
+n = 127, k = 8, d = 63, CR = 0.06299213, H_in_req = 0.13825740, efficiency = 0.45555794, area = 59.36 GEs, construction = check poly. 
+n = 127, k = 14, d = 56, CR = 0.11023622, H_in_req = 0.19009921, efficiency = 0.57984643, area = 109.38 GEs, construction = check poly. 
+n = 127, k = 15, d = 55, CR = 0.11811024, H_in_req = 0.19805842, efficiency = 0.59630065, area = 122.05 GEs, construction = check poly. 
+n = 127, k = 21, d = 48, CR = 0.16535433, H_in_req = 0.24724721, efficiency = 0.66874955, area = 164.07 GEs, construction = check poly. 
+n = 127, k = 22, d = 47, CR = 0.17322835, H_in_req = 0.25514014, efficiency = 0.67892287, area = 176.74 GEs, construction = check poly. 
+n = 127, k = 28, d = 44, CR = 0.22047244, H_in_req = 0.30249810, efficiency = 0.72881308, area = 210.76 GEs, construction = check poly. 
+n = 127, k = 29, d = 43, CR = 0.22834646, H_in_req = 0.31038561, efficiency = 0.73566099, area = 219.43 GEs, construction = check poly. 
+n = 127, k = 35, d = 36, CR = 0.27559055, H_in_req = 0.35834420, efficiency = 0.76904463, area = 281.45 GEs, construction = check poly. 
+n = 127, k = 43, d = 31, CR = 0.33858268, H_in_req = 0.42108026, efficiency = 0.80406241, area = 336.81 GEs, construction = check poly. 
+n = 127, k = 50, d = 27, CR = 0.39370079, H_in_req = 0.47629554, efficiency = 0.82657275, area = 375.50 GEs, construction = check poly. 
+n = 127, k = 64, d = 21, CR = 0.50393701, H_in_req = 0.58644291, efficiency = 0.85929786, area = 484.88 GEs, construction = check poly. 
+n = 127, k = 71, d = 19, CR = 0.55905512, H_in_req = 0.64164354, efficiency = 0.87127386, area = 555.57 GEs, construction = check poly. 
+n = 127, k = 78, d = 15, CR = 0.61417323, H_in_req = 0.69695243, efficiency = 0.88121561, area = 606.26 GEs, construction = check poly. 
+n = 127, k = 85, d = 13, CR = 0.66929134, H_in_req = 0.75156809, efficiency = 0.89051608, area = 660.95 GEs, construction = check poly. 
+n = 127, k = 99, d = 9, CR = 0.77952756, H_in_req = 0.86007631, efficiency = 0.90633783, area = 770.33 GEs, construction = check poly. 
+n = 127, k = 113, d = 5, CR = 0.88976378, H_in_req = 0.95862382, efficiency = 0.92815961, area = 863.71 GEs, construction = check poly. 
+n = 127, k = 120, d = 3, CR = 0.94488189, H_in_req = 0.99139801, efficiency = 0.95307234, area = 857.76 GEs, construction = generator poly. 
+n = 128, k = 1, d = 128, CR = 0.00781250, H_in_req = 0.04041013, efficiency = 0.19313694, area = 8.67 GEs, construction = check poly. 
+n = 129, k = 1, d = 129, CR = 0.00775194, H_in_req = 0.04010133, efficiency = 0.19311548, area = 8.67 GEs, construction = check poly. 
+n = 129, k = 100, d = 10, CR = 0.77519380, H_in_req = 0.85484980, efficiency = 0.90680965, area = 771.00 GEs, construction = check poly. 
+n = 129, k = 114, d = 6, CR = 0.88372093, H_in_req = 0.95240732, efficiency = 0.92787315, area = 876.38 GEs, construction = check poly. 
+n = 130, k = 1, d = 130, CR = 0.00769231, H_in_req = 0.03979723, efficiency = 0.19309425, area = 8.67 GEs, construction = check poly. 
+n = 131, k = 1, d = 131, CR = 0.00763359, H_in_req = 0.03949772, efficiency = 0.19307331, area = 8.67 GEs, construction = check poly. 
+n = 132, k = 1, d = 132, CR = 0.00757576, H_in_req = 0.03920267, efficiency = 0.19305272, area = 8.67 GEs, construction = check poly. 
+n = 133, k = 1, d = 133, CR = 0.00751880, H_in_req = 0.03891203, efficiency = 0.19303230, area = 8.67 GEs, construction = check poly. 
+n = 134, k = 1, d = 134, CR = 0.00746269, H_in_req = 0.03862562, efficiency = 0.19301242, area = 8.67 GEs, construction = check poly. 
+n = 135, k = 1, d = 135, CR = 0.00740741, H_in_req = 0.03834338, efficiency = 0.19299293, area = 8.67 GEs, construction = check poly. 
+n = 136, k = 1, d = 136, CR = 0.00735294, H_in_req = 0.03806530, efficiency = 0.19297335, area = 8.67 GEs, construction = check poly. 
+n = 137, k = 1, d = 137, CR = 0.00729927, H_in_req = 0.03779116, efficiency = 0.19295444, area = 8.67 GEs, construction = check poly. 
+n = 138, k = 1, d = 138, CR = 0.00724638, H_in_req = 0.03752100, efficiency = 0.19293545, area = 8.67 GEs, construction = check poly. 
+n = 139, k = 1, d = 139, CR = 0.00719424, H_in_req = 0.03725463, efficiency = 0.19291701, area = 8.67 GEs, construction = check poly. 
+n = 140, k = 1, d = 140, CR = 0.00714286, H_in_req = 0.03699200, efficiency = 0.19289886, area = 8.67 GEs, construction = check poly. 
+n = 141, k = 1, d = 141, CR = 0.00709220, H_in_req = 0.03673310, efficiency = 0.19288073, area = 8.67 GEs, construction = check poly. 
+n = 142, k = 1, d = 142, CR = 0.00704225, H_in_req = 0.03647777, efficiency = 0.19286299, area = 8.67 GEs, construction = check poly. 
+n = 143, k = 1, d = 143, CR = 0.00699301, H_in_req = 0.03622596, efficiency = 0.19284556, area = 8.67 GEs, construction = check poly. 
+n = 144, k = 1, d = 144, CR = 0.00694444, H_in_req = 0.03597759, efficiency = 0.19282837, area = 8.67 GEs, construction = check poly. 
+n = 145, k = 1, d = 145, CR = 0.00689655, H_in_req = 0.03573263, efficiency = 0.19281136, area = 8.67 GEs, construction = check poly. 
+n = 146, k = 1, d = 146, CR = 0.00684932, H_in_req = 0.03549099, efficiency = 0.19279446, area = 8.67 GEs, construction = check poly. 
+n = 147, k = 1, d = 147, CR = 0.00680272, H_in_req = 0.03525257, efficiency = 0.19277796, area = 8.67 GEs, construction = check poly. 
+n = 148, k = 1, d = 148, CR = 0.00675676, H_in_req = 0.03501734, efficiency = 0.19276166, area = 8.67 GEs, construction = check poly. 
+n = 149, k = 1, d = 149, CR = 0.00671141, H_in_req = 0.03478521, efficiency = 0.19274571, area = 8.67 GEs, construction = check poly. 
+n = 150, k = 1, d = 150, CR = 0.00666667, H_in_req = 0.03455617, efficiency = 0.19272975, area = 8.67 GEs, construction = check poly. 
+n = 151, k = 1, d = 151, CR = 0.00662252, H_in_req = 0.03433010, efficiency = 0.19271411, area = 8.67 GEs, construction = check poly. 
+n = 151, k = 31, d = 47, CR = 0.20529801, H_in_req = 0.27471087, efficiency = 0.74729986, area = 232.77 GEs, construction = check poly. 
+n = 151, k = 135, d = 6, CR = 0.89403974, H_in_req = 0.95499116, efficiency = 0.93616900, area = 1035.84 GEs, construction = generator poly. 
+n = 151, k = 136, d = 5, CR = 0.90066225, H_in_req = 0.96129990, efficiency = 0.93691431, area = 1029.84 GEs, construction = generator poly. 
+n = 152, k = 1, d = 152, CR = 0.00657895, H_in_req = 0.03410699, efficiency = 0.19269862, area = 8.67 GEs, construction = check poly. 
+n = 153, k = 1, d = 153, CR = 0.00653595, H_in_req = 0.03388673, efficiency = 0.19268347, area = 8.67 GEs, construction = check poly. 
+n = 154, k = 1, d = 154, CR = 0.00649351, H_in_req = 0.03366933, efficiency = 0.19266834, area = 8.67 GEs, construction = check poly. 
+n = 155, k = 1, d = 155, CR = 0.00645161, H_in_req = 0.03345467, efficiency = 0.19265358, area = 8.67 GEs, construction = check poly. 
+n = 156, k = 1, d = 156, CR = 0.00641026, H_in_req = 0.03324275, efficiency = 0.19263891, area = 8.67 GEs, construction = check poly. 
+n = 157, k = 1, d = 157, CR = 0.00636943, H_in_req = 0.03303351, efficiency = 0.19262435, area = 8.67 GEs, construction = check poly. 
+n = 158, k = 1, d = 158, CR = 0.00632911, H_in_req = 0.03282689, efficiency = 0.19260997, area = 8.67 GEs, construction = check poly. 
+n = 159, k = 1, d = 159, CR = 0.00628931, H_in_req = 0.03262280, efficiency = 0.19259599, area = 8.67 GEs, construction = check poly. 
+n = 160, k = 1, d = 160, CR = 0.00625000, H_in_req = 0.03242127, efficiency = 0.19258196, area = 8.67 GEs, construction = check poly. 
+n = 161, k = 1, d = 161, CR = 0.00621118, H_in_req = 0.03222218, efficiency = 0.19256830, area = 8.67 GEs, construction = check poly. 
+n = 162, k = 1, d = 162, CR = 0.00617284, H_in_req = 0.03202553, efficiency = 0.19255474, area = 8.67 GEs, construction = check poly. 
+n = 163, k = 1, d = 163, CR = 0.00613497, H_in_req = 0.03183127, efficiency = 0.19254137, area = 8.67 GEs, construction = check poly. 
+n = 164, k = 1, d = 164, CR = 0.00609756, H_in_req = 0.03163935, efficiency = 0.19252811, area = 8.67 GEs, construction = check poly. 
+n = 165, k = 1, d = 165, CR = 0.00606061, H_in_req = 0.03144973, efficiency = 0.19251505, area = 8.67 GEs, construction = check poly. 
+n = 166, k = 1, d = 166, CR = 0.00602410, H_in_req = 0.03126237, efficiency = 0.19250213, area = 8.67 GEs, construction = check poly. 
+n = 167, k = 1, d = 167, CR = 0.00598802, H_in_req = 0.03107725, efficiency = 0.19248929, area = 8.67 GEs, construction = check poly. 
+n = 168, k = 1, d = 168, CR = 0.00595238, H_in_req = 0.03089429, efficiency = 0.19247663, area = 8.67 GEs, construction = check poly. 
+n = 169, k = 1, d = 169, CR = 0.00591716, H_in_req = 0.03071346, efficiency = 0.19246429, area = 8.67 GEs, construction = check poly. 
+n = 170, k = 1, d = 170, CR = 0.00588235, H_in_req = 0.03053476, efficiency = 0.19245186, area = 8.67 GEs, construction = check poly. 
+n = 171, k = 1, d = 171, CR = 0.00584795, H_in_req = 0.03035809, efficiency = 0.19243984, area = 8.67 GEs, construction = check poly. 
+n = 172, k = 1, d = 172, CR = 0.00581395, H_in_req = 0.03018350, efficiency = 0.19242764, area = 8.67 GEs, construction = check poly. 
+n = 173, k = 1, d = 173, CR = 0.00578035, H_in_req = 0.03001088, efficiency = 0.19241578, area = 8.67 GEs, construction = check poly. 
+n = 174, k = 1, d = 174, CR = 0.00574713, H_in_req = 0.02984023, efficiency = 0.19240404, area = 8.67 GEs, construction = check poly. 
+n = 175, k = 1, d = 175, CR = 0.00571429, H_in_req = 0.02967148, efficiency = 0.19239259, area = 8.67 GEs, construction = check poly. 
+n = 176, k = 1, d = 176, CR = 0.00568182, H_in_req = 0.02950466, efficiency = 0.19238104, area = 8.67 GEs, construction = check poly. 
+n = 177, k = 1, d = 177, CR = 0.00564972, H_in_req = 0.02933969, efficiency = 0.19236973, area = 8.67 GEs, construction = check poly. 
+n = 178, k = 1, d = 178, CR = 0.00561798, H_in_req = 0.02917657, efficiency = 0.19235849, area = 8.67 GEs, construction = check poly. 
+n = 179, k = 1, d = 179, CR = 0.00558659, H_in_req = 0.02901523, efficiency = 0.19234748, area = 8.67 GEs, construction = check poly. 
+n = 180, k = 1, d = 180, CR = 0.00555556, H_in_req = 0.02885571, efficiency = 0.19233632, area = 8.67 GEs, construction = check poly. 
+n = 181, k = 1, d = 181, CR = 0.00552486, H_in_req = 0.02869789, efficiency = 0.19232560, area = 8.67 GEs, construction = check poly. 
+n = 182, k = 1, d = 182, CR = 0.00549451, H_in_req = 0.02854179, efficiency = 0.19231493, area = 8.67 GEs, construction = check poly. 
+n = 183, k = 1, d = 183, CR = 0.00546448, H_in_req = 0.02838739, efficiency = 0.19230432, area = 8.67 GEs, construction = check poly. 
+n = 184, k = 1, d = 184, CR = 0.00543478, H_in_req = 0.02823466, efficiency = 0.19229379, area = 8.67 GEs, construction = check poly. 
+n = 185, k = 1, d = 185, CR = 0.00540541, H_in_req = 0.02808356, efficiency = 0.19228335, area = 8.67 GEs, construction = check poly. 
+n = 186, k = 1, d = 186, CR = 0.00537634, H_in_req = 0.02793407, efficiency = 0.19227303, area = 8.67 GEs, construction = check poly. 
+n = 187, k = 1, d = 187, CR = 0.00534759, H_in_req = 0.02778613, efficiency = 0.19226307, area = 8.67 GEs, construction = check poly. 
+n = 188, k = 1, d = 188, CR = 0.00531915, H_in_req = 0.02763980, efficiency = 0.19225286, area = 8.67 GEs, construction = check poly. 
+n = 189, k = 1, d = 189, CR = 0.00529101, H_in_req = 0.02749496, efficiency = 0.19224308, area = 8.67 GEs, construction = check poly. 
+n = 190, k = 1, d = 190, CR = 0.00526316, H_in_req = 0.02735166, efficiency = 0.19223314, area = 8.67 GEs, construction = check poly. 
+n = 191, k = 1, d = 191, CR = 0.00523560, H_in_req = 0.02720983, efficiency = 0.19222348, area = 8.67 GEs, construction = check poly. 
+n = 192, k = 1, d = 192, CR = 0.00520833, H_in_req = 0.02706948, efficiency = 0.19221376, area = 8.67 GEs, construction = check poly. 
+n = 193, k = 1, d = 193, CR = 0.00518135, H_in_req = 0.02693053, efficiency = 0.19220442, area = 8.67 GEs, construction = check poly. 
+n = 194, k = 1, d = 194, CR = 0.00515464, H_in_req = 0.02679304, efficiency = 0.19219489, area = 8.67 GEs, construction = check poly. 
+n = 195, k = 1, d = 195, CR = 0.00512821, H_in_req = 0.02665692, efficiency = 0.19218566, area = 8.67 GEs, construction = check poly. 
+n = 196, k = 1, d = 196, CR = 0.00510204, H_in_req = 0.02652220, efficiency = 0.19217636, area = 8.67 GEs, construction = check poly. 
+n = 197, k = 1, d = 197, CR = 0.00507614, H_in_req = 0.02638882, efficiency = 0.19216726, area = 8.67 GEs, construction = check poly. 
+n = 198, k = 1, d = 198, CR = 0.00505051, H_in_req = 0.02625678, efficiency = 0.19215822, area = 8.67 GEs, construction = check poly. 
+n = 199, k = 1, d = 199, CR = 0.00502513, H_in_req = 0.02612605, efficiency = 0.19214930, area = 8.67 GEs, construction = check poly. 
+n = 200, k = 1, d = 200, CR = 0.00500000, H_in_req = 0.02599663, efficiency = 0.19214036, area = 8.67 GEs, construction = check poly. 
+n = 201, k = 1, d = 201, CR = 0.00497512, H_in_req = 0.02586845, efficiency = 0.19213170, area = 8.67 GEs, construction = check poly. 
+n = 202, k = 1, d = 202, CR = 0.00495050, H_in_req = 0.02574156, efficiency = 0.19212296, area = 8.67 GEs, construction = check poly. 
+n = 203, k = 1, d = 203, CR = 0.00492611, H_in_req = 0.02561592, efficiency = 0.19211422, area = 8.67 GEs, construction = check poly. 
+n = 204, k = 1, d = 204, CR = 0.00490196, H_in_req = 0.02549147, efficiency = 0.19210579, area = 8.67 GEs, construction = check poly. 
+n = 205, k = 1, d = 205, CR = 0.00487805, H_in_req = 0.02536822, efficiency = 0.19209753, area = 8.67 GEs, construction = check poly. 
+n = 206, k = 1, d = 206, CR = 0.00485437, H_in_req = 0.02524618, efficiency = 0.19208909, area = 8.67 GEs, construction = check poly. 
+n = 207, k = 1, d = 207, CR = 0.00483092, H_in_req = 0.02512530, efficiency = 0.19208079, area = 8.67 GEs, construction = check poly. 
+n = 208, k = 1, d = 208, CR = 0.00480769, H_in_req = 0.02500559, efficiency = 0.19207250, area = 8.67 GEs, construction = check poly. 
+n = 209, k = 1, d = 209, CR = 0.00478469, H_in_req = 0.02488697, efficiency = 0.19206455, area = 8.67 GEs, construction = check poly. 
+n = 210, k = 1, d = 210, CR = 0.00476190, H_in_req = 0.02476949, efficiency = 0.19205658, area = 8.67 GEs, construction = check poly. 
+n = 211, k = 1, d = 211, CR = 0.00473934, H_in_req = 0.02465314, efficiency = 0.19204848, area = 8.67 GEs, construction = check poly. 
+n = 212, k = 1, d = 212, CR = 0.00471698, H_in_req = 0.02453786, efficiency = 0.19204058, area = 8.67 GEs, construction = check poly. 
+n = 213, k = 1, d = 213, CR = 0.00469484, H_in_req = 0.02442365, efficiency = 0.19203277, area = 8.67 GEs, construction = check poly. 
+n = 214, k = 1, d = 214, CR = 0.00467290, H_in_req = 0.02431049, efficiency = 0.19202515, area = 8.67 GEs, construction = check poly. 
+n = 215, k = 1, d = 215, CR = 0.00465116, H_in_req = 0.02419839, efficiency = 0.19201739, area = 8.67 GEs, construction = check poly. 
+n = 216, k = 1, d = 216, CR = 0.00462963, H_in_req = 0.02408731, efficiency = 0.19200983, area = 8.67 GEs, construction = check poly. 
+n = 217, k = 1, d = 217, CR = 0.00460829, H_in_req = 0.02397724, efficiency = 0.19200236, area = 8.67 GEs, construction = check poly. 
+n = 218, k = 1, d = 218, CR = 0.00458716, H_in_req = 0.02386819, efficiency = 0.19199488, area = 8.67 GEs, construction = check poly. 
+n = 219, k = 1, d = 219, CR = 0.00456621, H_in_req = 0.02376011, efficiency = 0.19198750, area = 8.67 GEs, construction = check poly. 
+n = 220, k = 1, d = 220, CR = 0.00454545, H_in_req = 0.02365299, efficiency = 0.19198037, area = 8.67 GEs, construction = check poly. 
+n = 221, k = 1, d = 221, CR = 0.00452489, H_in_req = 0.02354685, efficiency = 0.19197313, area = 8.67 GEs, construction = check poly. 
+n = 222, k = 1, d = 222, CR = 0.00450450, H_in_req = 0.02344167, efficiency = 0.19196591, area = 8.67 GEs, construction = check poly. 
+n = 223, k = 1, d = 223, CR = 0.00448430, H_in_req = 0.02333743, efficiency = 0.19195863, area = 8.67 GEs, construction = check poly. 
+n = 224, k = 1, d = 224, CR = 0.00446429, H_in_req = 0.02323409, efficiency = 0.19195165, area = 8.67 GEs, construction = check poly. 
+n = 225, k = 1, d = 225, CR = 0.00444444, H_in_req = 0.02313168, efficiency = 0.19194464, area = 8.67 GEs, construction = check poly. 
+n = 226, k = 1, d = 226, CR = 0.00442478, H_in_req = 0.02303015, efficiency = 0.19193773, area = 8.67 GEs, construction = check poly. 
+n = 227, k = 1, d = 227, CR = 0.00440529, H_in_req = 0.02292952, efficiency = 0.19193084, area = 8.67 GEs, construction = check poly. 
+n = 228, k = 1, d = 228, CR = 0.00438596, H_in_req = 0.02282975, efficiency = 0.19192411, area = 8.67 GEs, construction = check poly. 
+n = 229, k = 1, d = 229, CR = 0.00436681, H_in_req = 0.02273085, efficiency = 0.19191745, area = 8.67 GEs, construction = check poly. 
+n = 230, k = 1, d = 230, CR = 0.00434783, H_in_req = 0.02263281, efficiency = 0.19191076, area = 8.67 GEs, construction = check poly. 
+n = 231, k = 1, d = 231, CR = 0.00432900, H_in_req = 0.02253560, efficiency = 0.19190420, area = 8.67 GEs, construction = check poly. 
+n = 232, k = 1, d = 232, CR = 0.00431034, H_in_req = 0.02243926, efficiency = 0.19189743, area = 8.67 GEs, construction = check poly. 
+n = 233, k = 1, d = 233, CR = 0.00429185, H_in_req = 0.02234369, efficiency = 0.19189111, area = 8.67 GEs, construction = check poly. 
+n = 233, k = 30, d = 88, CR = 0.12875536, H_in_req = 0.17376422, efficiency = 0.74095274, area = 230.10 GEs, construction = check poly. 
+n = 234, k = 1, d = 234, CR = 0.00427350, H_in_req = 0.02224895, efficiency = 0.19188464, area = 8.67 GEs, construction = check poly. 
+n = 235, k = 1, d = 235, CR = 0.00425532, H_in_req = 0.02215502, efficiency = 0.19187820, area = 8.67 GEs, construction = check poly. 
+n = 236, k = 1, d = 236, CR = 0.00423729, H_in_req = 0.02206186, efficiency = 0.19187194, area = 8.67 GEs, construction = check poly. 
+n = 237, k = 1, d = 237, CR = 0.00421941, H_in_req = 0.02196950, efficiency = 0.19186554, area = 8.67 GEs, construction = check poly. 
+n = 238, k = 1, d = 238, CR = 0.00420168, H_in_req = 0.02187789, efficiency = 0.19185941, area = 8.67 GEs, construction = check poly. 
+n = 239, k = 1, d = 239, CR = 0.00418410, H_in_req = 0.02178706, efficiency = 0.19185322, area = 8.67 GEs, construction = check poly. 
+n = 240, k = 1, d = 240, CR = 0.00416667, H_in_req = 0.02169697, efficiency = 0.19184713, area = 8.67 GEs, construction = check poly. 
+n = 241, k = 1, d = 241, CR = 0.00414938, H_in_req = 0.02160762, efficiency = 0.19184108, area = 8.67 GEs, construction = check poly. 
+n = 241, k = 24, d = 94, CR = 0.09958506, H_in_req = 0.14308888, efficiency = 0.69593749, area = 192.08 GEs, construction = check poly. 
+n = 241, k = 25, d = 93, CR = 0.10373444, H_in_req = 0.14725519, efficiency = 0.70442540, area = 184.75 GEs, construction = check poly. 
+n = 242, k = 1, d = 242, CR = 0.00413223, H_in_req = 0.02151902, efficiency = 0.19183498, area = 8.67 GEs, construction = check poly. 
+n = 243, k = 1, d = 243, CR = 0.00411523, H_in_req = 0.02143113, efficiency = 0.19182901, area = 8.67 GEs, construction = check poly. 
+n = 244, k = 1, d = 244, CR = 0.00409836, H_in_req = 0.02134395, efficiency = 0.19182309, area = 8.67 GEs, construction = check poly. 
+n = 245, k = 1, d = 245, CR = 0.00408163, H_in_req = 0.02125750, efficiency = 0.19181714, area = 8.67 GEs, construction = check poly. 
+n = 246, k = 1, d = 246, CR = 0.00406504, H_in_req = 0.02117172, efficiency = 0.19181136, area = 8.67 GEs, construction = check poly. 
+n = 247, k = 1, d = 247, CR = 0.00404858, H_in_req = 0.02108665, efficiency = 0.19180554, area = 8.67 GEs, construction = check poly. 
+n = 248, k = 1, d = 248, CR = 0.00403226, H_in_req = 0.02100226, efficiency = 0.19179973, area = 8.67 GEs, construction = check poly. 
+n = 249, k = 1, d = 249, CR = 0.00401606, H_in_req = 0.02091853, efficiency = 0.19179399, area = 8.67 GEs, construction = check poly. 
+n = 250, k = 1, d = 250, CR = 0.00400000, H_in_req = 0.02083547, efficiency = 0.19178838, area = 8.67 GEs, construction = check poly. 
+n = 251, k = 1, d = 251, CR = 0.00398406, H_in_req = 0.02075306, efficiency = 0.19178284, area = 8.67 GEs, construction = check poly. 
+n = 252, k = 1, d = 252, CR = 0.00396825, H_in_req = 0.02067130, efficiency = 0.19177729, area = 8.67 GEs, construction = check poly. 
+n = 253, k = 1, d = 253, CR = 0.00395257, H_in_req = 0.02059019, efficiency = 0.19177180, area = 8.67 GEs, construction = check poly. 
+n = 254, k = 1, d = 254, CR = 0.00393701, H_in_req = 0.02050970, efficiency = 0.19176644, area = 8.67 GEs, construction = check poly. 
+n = 255, k = 1, d = 255, CR = 0.00392157, H_in_req = 0.02042985, efficiency = 0.19176099, area = 8.67 GEs, construction = check poly. 
+n = 255, k = 9, d = 127, CR = 0.03529412, H_in_req = 0.07440933, efficiency = 0.47427113, area = 70.03 GEs, construction = check poly. 
+n = 255, k = 13, d = 119, CR = 0.05098039, H_in_req = 0.09156110, efficiency = 0.55674813, area = 100.71 GEs, construction = check poly. 
+n = 255, k = 20, d = 112, CR = 0.07843137, H_in_req = 0.11937751, efficiency = 0.65697010, area = 149.40 GEs, construction = check poly. 
+n = 255, k = 21, d = 111, CR = 0.08235294, H_in_req = 0.12330695, efficiency = 0.66783767, area = 154.07 GEs, construction = check poly. 
+n = 255, k = 25, d = 100, CR = 0.09803922, H_in_req = 0.13908984, efficiency = 0.70483438, area = 184.75 GEs, construction = check poly. 
+n = 255, k = 26, d = 98, CR = 0.10196078, H_in_req = 0.14307757, efficiency = 0.71259855, area = 193.42 GEs, construction = check poly. 
+n = 255, k = 32, d = 96, CR = 0.12549020, H_in_req = 0.16661560, efficiency = 0.75314843, area = 253.44 GEs, construction = check poly. 
+n = 255, k = 33, d = 95, CR = 0.12941176, H_in_req = 0.17053813, efficiency = 0.75882060, area = 254.11 GEs, construction = check poly. 
+n = 255, k = 37, d = 91, CR = 0.14509804, H_in_req = 0.18624552, efficiency = 0.77904759, area = 296.79 GEs, construction = check poly. 
+n = 255, k = 45, d = 87, CR = 0.17647059, H_in_req = 0.21762028, efficiency = 0.81089260, area = 346.15 GEs, construction = check poly. 
+n = 255, k = 47, d = 85, CR = 0.18431373, H_in_req = 0.22546462, efficiency = 0.81746665, area = 351.49 GEs, construction = check poly. 
+n = 255, k = 207, d = 13, CR = 0.81176471, H_in_req = 0.85290827, efficiency = 0.95175626, area = 1586.69 GEs, construction = check poly. 
+n = 255, k = 215, d = 11, CR = 0.84313725, H_in_req = 0.88430084, efficiency = 0.95344628, area = 1656.05 GEs, construction = check poly. 
+n = 255, k = 223, d = 9, CR = 0.87450980, H_in_req = 0.91542312, efficiency = 0.95530238, area = 1733.41 GEs, construction = check poly. 
+n = 255, k = 239, d = 5, CR = 0.93725490, H_in_req = 0.97423689, efficiency = 0.96203603, area = 1727.52 GEs, construction = generator poly. 
+n = 255, k = 247, d = 3, CR = 0.96862745, H_in_req = 0.99469147, efficiency = 0.97379294, area = 1715.52 GEs, construction = generator poly. 
+n = 256, k = 1, d = 256, CR = 0.00390625, H_in_req = 0.02035062, efficiency = 0.19175553, area = 8.67 GEs, construction = check poly. 
+n = 31, k = 16, d = 7, CR = 0.51612903, H_in_req = 0.78317115, efficiency = 0.65898339, area = 120.72 GEs, construction = check poly. 
+n = 63, k = 24, d = 15, CR = 0.38095238, H_in_req = 0.55105446, efficiency = 0.69128651, area = 186.08 GEs, construction = check poly. 
+n = 127, k = 36, d = 31, CR = 0.28346457, H_in_req = 0.36659762, efficiency = 0.77320932, area = 282.12 GEs, construction = check poly. 
+n = 127, k = 57, d = 23, CR = 0.44881890, H_in_req = 0.53252416, efficiency = 0.84279937, area = 446.19 GEs, construction = check poly. 
+n = 255, k = 29, d = 95, CR = 0.11372549, H_in_req = 0.15506571, efficiency = 0.73337666, area = 227.43 GEs, construction = check poly. 
+n = 255, k = 55, d = 63, CR = 0.21568627, H_in_req = 0.25684736, efficiency = 0.83972971, area = 420.85 GEs, construction = check poly. 
+n = 63, k = 45, d = 7, CR = 0.71428571, H_in_req = 0.86358601, efficiency = 0.82709752, area = 346.15 GEs, construction = check poly. 
+n = 255, k = 63, d = 63, CR = 0.24705882, H_in_req = 0.28821229, efficiency = 0.85719768, area = 474.21 GEs, construction = check poly. 
+n = 97, k = 49, d = 15, CR = 0.50515464, H_in_req = 0.61712242, efficiency = 0.81854802, area = 368.83 GEs, construction = check poly. 
+n = 137, k = 69, d = 21, CR = 0.50364964, H_in_req = 0.58045184, efficiency = 0.86767291, area = 526.23 GEs, construction = check poly. 
+n = 151, k = 76, d = 19, CR = 0.50331126, H_in_req = 0.57316627, efficiency = 0.87811280, area = 584.92 GEs, construction = check poly. 
+n = 113, k = 57, d = 15, CR = 0.50442478, H_in_req = 0.60571811, efficiency = 0.83275689, area = 430.19 GEs, construction = check poly. 
+n = 71, k = 36, d = 11, CR = 0.50704225, H_in_req = 0.66500294, efficiency = 0.76244501, area = 270.12 GEs, construction = check poly. 
+n = 73, k = 37, d = 13, CR = 0.50684932, H_in_req = 0.64749158, efficiency = 0.78276789, area = 288.79 GEs, construction = check poly. 
+n = 167, k = 84, d = 23, CR = 0.50299401, H_in_req = 0.56599991, efficiency = 0.88867158, area = 670.28 GEs, construction = check poly. 
+n = 63, k = 9, d = 28, CR = 0.14285714, H_in_req = 0.29361707, efficiency = 0.48648830, area = 68.03 GEs, construction = check poly. 
+n = 93, k = 33, d = 22, CR = 0.35483871, H_in_req = 0.46760601, efficiency = 0.75881821, area = 258.11 GEs, construction = check poly. 
+n = 145, k = 32, d = 44, CR = 0.22068966, H_in_req = 0.29320133, efficiency = 0.75266631, area = 249.44 GEs, construction = check poly. 
+n = 151, k = 30, d = 48, CR = 0.19867550, H_in_req = 0.26825547, efficiency = 0.74059581, area = 228.10 GEs, construction = check poly. 
+n = 255, k = 12, d = 120, CR = 0.04705882, H_in_req = 0.08761702, efficiency = 0.53705211, area = 96.04 GEs, construction = check poly. 
+n = 511, k = 502, d = 3, CR = 0.98238748, H_in_req = 0.99673204, efficiency = 0.98560645, area = 3419.04 GEs, construction = generator poly. 
+n = 511, k = 493, d = 5, CR = 0.96477495, H_in_req = 0.98413765, efficiency = 0.98032323, area = 3431.04 GEs, construction = generator poly. 
+n = 511, k = 484, d = 7, CR = 0.94716243, H_in_req = 0.96752822, efficiency = 0.97894868, area = 3443.04 GEs, construction = generator poly. 
+n = 511, k = 31, d = 219, CR = 0.06066536, H_in_req = 0.08119836, efficiency = 0.74710140, area = 224.77 GEs, construction = check poly. 
+n = 511, k = 28, d = 223, CR = 0.05479452, H_in_req = 0.07532189, efficiency = 0.72744546, area = 204.76 GEs, construction = check poly. 
+n = 511, k = 19, d = 239, CR = 0.03718200, H_in_req = 0.05764068, efficiency = 0.64503134, area = 152.73 GEs, construction = check poly. 
+n = 511, k = 10, d = 255, CR = 0.01956947, H_in_req = 0.03954410, efficiency = 0.49482767, area = 76.70 GEs, construction = check poly. 
+n = 127, k = 92, d = 11, CR = 0.72440945, H_in_req = 0.80704633, efficiency = 0.89759603, area = 707.64 GEs, construction = check poly. 
+n = 127, k = 106, d = 7, CR = 0.83464567, H_in_req = 0.91254061, efficiency = 0.91463086, area = 801.02 GEs, construction = check poly. 
+n = 255, k = 231, d = 7, CR = 0.90588235, H_in_req = 0.94614848, efficiency = 0.95743792, area = 1735.52 GEs, construction = generator poly.
