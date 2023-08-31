@@ -35,7 +35,7 @@ Files [5](Optimal_NBC.txt), [6](Optimal_NBCCYC.txt), [7](Optimal_OBC.txt), [8](O
 - minimum required min-entropy of the input raw bits to achieve the output min-entropy rate of 0.999 (`H_in_req`),
 - code rate = throughput reduction (`CR`),
 - efficiency of the corrector at H_in_req (`efficiency`),
-- only for File [9](Optimal_Area_NBCCYC.txt): area estimation (in GEs for NanGate 45nm standard-cell library) occupied by the corrector when implemented using generator or parity-check polynomial.
+- only for File [9](Optimal_Area_NBCCYC.txt): area estimation (in GEs for NanGate 45nm standard-cell library) occupied by the corrector (`area`) when implemented using generator or parity-check polynomial (`construction`).
 
 File [10](Modified_generator_matrices_OBC_NBC.zip) contains:
 - parameters of the code on which the corresponding corrector is based (`n`, `k`, `d`), 
