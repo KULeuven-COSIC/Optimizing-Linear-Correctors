@@ -16,7 +16,8 @@ The directory `Code/` contains necessary Python code to reproduce figures from t
 6. [Optimal_NBCCYC](Optimal_NBCCYC.txt): Optimal correctors for output min-entropy rate of 0.999 based only on the cyclic codes according to the new bound
 7. [Optimal_OBC](Optimal_OBC.txt): Optimal correctors for output min-entropy rate of 0.999 according to the old bound
 8. [Optimal_OBCCYC](Optimal_OBCCYC.txt): Optimal correctors for output min-entropy rate of 0.999 based only on the cyclic codes according to the old bound
-9. [Modified_generator_matrices_OBC_NBC](Modified_generator_matrices_OBC_NBC.zip): Modified generator matrices of the best known linear codes that originally contained one or multiple all-zero columns (BKLCs from  M. Grassl, *''Bounds on the minimum distance of linear codes and quantum codes,''* Online available at: http://www.codetables.de) 
+9. [Optimal_Area_NBCCYC](Optimal_Area_NBCCYC.txt) : Optimal correctors according to both efficiency and area (GEs for NanGate 45nm standard-cell library) for output min-entropy rate of 0.999 based only on the cyclic codes according to the new bound
+10. [Modified_generator_matrices_OBC_NBC](Modified_generator_matrices_OBC_NBC.zip): Modified generator matrices of the best known linear codes that originally contained one or multiple all-zero columns (BKLCs from  M. Grassl, *''Bounds on the minimum distance of linear codes and quantum codes,''* Online available at: http://www.codetables.de) - ZIP file
 
 	
 Files [1](NBC_set.zip) and [2](NBCCYC_set.txt) contain in each line:
@@ -29,13 +30,14 @@ Files [3](OBC_set.txt) and [4](OBCCYC_set.txt) contain in each line:
 - parameters of the code on which the corresponding corrector is based (`n`, `k`, `d`), 
 - reference where the complete code description can be found (`source`).
 
-Files [5](Optimal_NBC.txt), [6](Optimal_NBCCYC.txt), [7](Optimal_OBC.txt) and [8](Optimal_OBCCYC.txt) contain in each line:
+Files [5](Optimal_NBC.txt), [6](Optimal_NBCCYC.txt), [7](Optimal_OBC.txt), [8](Optimal_OBCCYC.txt) and [9](Optimal_Area_NBCCYC.txt) contain in each line:
 - parameters of the code on which the corresponding corrector is based (`n`, `k`, `d`), 
 - minimum required min-entropy of the input raw bits to achieve the output min-entropy rate of 0.999 (`H_in_req`),
 - code rate = throughput reduction (`CR`),
-- efficiency of the corrector at H_in_req (`efficiency`).
+- efficiency of the corrector at H_in_req (`efficiency`),
+- only for File [9](Optimal_Area_NBCCYC.txt): area estimation (in GEs for NanGate 45nm standard-cell library) occupied by the corrector when implemented using generator or parity-check polynomial.
 
-File [9](Modified_generator_matrices_OBC_NBC.zip) contains:
+File [10](Modified_generator_matrices_OBC_NBC.zip) contains:
 - parameters of the code on which the corresponding corrector is based (`n`, `k`, `d`), 
 - in cases where MAGMA uses PRNG we additionally provide `MAGMA Seed` and `MAGMA Seed iteration` values in brackets that were used for our constructions,
 - followed by `k` rows with `n` entries of the code's generator matrix.
