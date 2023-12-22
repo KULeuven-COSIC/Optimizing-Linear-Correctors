@@ -1,6 +1,6 @@
 # Optimizing Linear Correctors: A Tight Output Min-Entropy Bound and Selection Technique
 
-This repository contains Python code and data for the paper: *Optimizing Linear Correctors: A Tight Output Min-Entropy Bound and Selection Technique*.
+This repository contains Python code and data for the paper: *Optimizing Linear Correctors: A Tight Output Min-Entropy Bound and Selection Technique*, published in *IEEE Transactions on Information Forensics and Security* ([authors' version](https://cosicdatabase.esat.kuleuven.be/backend/publications/files/journal/3651), [journal version](https://ieeexplore.ieee.org/document/10292710) )
 
 ## Code
 
@@ -56,6 +56,20 @@ All constructions are based on binary linear codes whose descriptions can be fou
 - T.-K. Truong, Y. Chang, and C.-D. Lee, *''The weight distributions of some binary quadratic residue codes,''* IEEE Transactions on Information Theory, vol. 51, no. 5, pp. 1776–1782, 2005.
 - M. Tomlinson, C. J. Tjhai, M. A. Ambroze, M. Ahmed, and M. Jibril, *''Error-Correction Coding and Decoding: Bounds, Codes, Decoders, Analysis and Applications,''* Springer Nature, 2017.
 
+## How to Cite This Work
+
+```
+@article{Grujic2023OptLinCor,
+  author={Gruji\'{c}, Milo\v{s} and Verbauwhede, Ingrid},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={Optimizing Linear Correctors: A Tight Output Min-Entropy Bound and Selection Technique}, 
+  year={2024},
+  volume={19},
+  number={},
+  pages={586-600},
+  doi={10.1109/TIFS.2023.3326986}
+  }
+```
 
 ## Further Information
 
